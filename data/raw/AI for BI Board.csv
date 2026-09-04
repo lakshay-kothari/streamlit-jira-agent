@@ -1,0 +1,209 @@
+SNo,Agents/Data Products,Description,Architects,Domain,Sub-Domain,Status,Origin,Demand Intake Number,Platform,Link,ETA,Comment
+1,OEE360,"Monitors Overall Equipment Effectiveness (OEE), tracks downtime, and delivers actionable insights to boost manufacturing efficiency, reduce losses, and ensure consistent quality in medical device production.",aditya.akella@medtronic.com,Business,Manufacturing,,,,,,,
+2,HCP Insights,"This dashboard provides a high level overview of contacts associated with customer accounts , focusing on data completeness and not validity, affiliated with the enterprise",ali.syed@medtronic.com,Business,MDM,,,,,,,
+3,Spine Surgery Research Agent,This agent understands spine surgery research data questions as input and responds with precision.,Brad Lehmeier,Business,Regulatory,,,,,,,
+4,SnowOptimize,"A powerful Snowflake agent designed to enhance query performance. Provide a SQL query or a query_id, and the Query Optimizer will analyze it to deliver tailored recommendations for optimizing execution, improving efficiency, and reducing resource consumption.",Brad Lehmeier,IT4IT,,,,,,,,
+5,SHA ADVANCE Study Agent,This agent understands questions about clinical study data as input and responds with precision.,Brad Lehmeier,Business,Regulatory,,,,,,,
+6,GSR Future Revenue Recogniton,"AI-powered assistant that enables Finance teams to quickly analyze, explain, and reconcile revenue that has not yet been recognized due to contractual, timing, or accounting rules.",chayashree.Tellaevarapalli@medtronic.com,Business,GSR,,,,,,,
+7,Finance Insights,"Provides detailed records of actual financial transactions, including expenses and revenues, forecasts and plans",chayashree.Tellaevarapalli@medtronic.com,Business,GSR,,,,,,,
+8,ProdPulse,"The PRODPULSE Agent simplifies data operations across Product, Account, User, and Record Types. It ensures accuracy, enforces business rules, and maintains data integrity. Designed for seamless workflows and reliable decision-making.",jallen2@medtronic.com,Business,MDM,,,,,,,
+9,HCP 360 Insights Agent,"HCP 360 Insights Agent is one of the most impactful Genie Agents you can build, and it leverages your HCP/HCO Databricks tables perfectly.",jallen2@medtronic.com,Business,MDM,,,,,,,
+10,"Agent - EVA, Data Product - Enterprise Value Operation","EVA provides comprehensive answers to questions about Medtronic’s value streams, business capabilities, business applications, and Planisware projects, illustrating how these elements are interconnected.",jason.nguyen4@medtronic.com,IT4IT,Enterprise,,,,,,,
+11,Labor Recovery Insights,,Kai Gui,Business,GOSC,,,,,,,
+12,Carrier Details (Shipping),"Information about the transportation provider responsible for delivering goods. Used in Outbound deliveries, Shipment documents, Freight settlement",kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+13,Delivery,The execution document for shipping goods to the customer,kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+14,Shipping Delivery Performance,"A measure of how well deliveries meet promised dates and quantities.  KPIs  On-time delivery (OTD), On-time in-full (OTIF), 
+Delivery delays, In short How reliably goods are shipped to customers",kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+15,Customer reciving config,"Configuration and process setup that defines how a customer receives goods from a Distribution Center (DC).  Includes Receiving methods (direct ship, cross-dock), Delivery windows and cut-off times, Packaging and labeling rules, Proof of delivery requirements.  How customers are set up to receive goods from a DC",kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+16,Digital Signature,An electronic authentication used to validate approvals and transactions.  Electronic approval and authentication.,kamal.ahuja@medtronic.com,Business,Enterprise,,,,,,,
+17,Employee experience,"The overall experience of employees while using systems, processes, and tools to perform their work. Includes Ease of using SAP transactions, Process efficiency, Workload clarity, Automation and self-service",kamal.ahuja@medtronic.com,Business,Enterprise,,,,,,,
+18,Handling Unit,A logistical packaging unit that groups materials together for handling and transport.  Packaging unit for logistics handling,kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+19,Loaner Availability Stats,"Metrics that show availability of loaner equipment provided temporarily to customers. Tracks Total loaner inventory, Available vs issued loaners, Utilization rate, Turnaround time.  Used by Service operations, Customer support, Asset management.  In short How many loaners are available and usable",kamal.ahuja@medtronic.com,Business,Commercial,,,,,,,
+20,Loaner Shortage,"A situation where demand for loaner equipment exceeds available inventory.  Impact  Service delays, Customer dissatisfaction, SLA breaches",kamal.ahuja@medtronic.com,Business,Commercial,,,,,,,
+21,Metric,"A quantifiable measure used to track performance, efficiency, or outcomes. Examples  On-time delivery %, Loaner utilization rate, Dispute resolution time, 
+Inventory accuracy %",kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+22,General Ledger Item,"Central repository of financial postings, Provides the official books of accounts, Basis for financial statements",kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+23,Batch Stocks,Inventory managed by batch number to ensure traceability and quality control. Stock tracked by batch,kamal.ahuja@medtronic.com,Business,Manufacturing,,,,,,,
+24,Cycle Count WM,"A periodic physical inventory counting process for selected materials or bins instead of full warehouse counts. Regular, scheduled inventory counting, Minimizes operational disruption, Ensures inventory accuracy",kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+25,Material Consumption,"Stock usage or depletion for business purposes.  In short Inventory used or consumed
+Examples :  Production consumption, Sales delivery ,Scrap or loss
+Effect : Reduces inventory Impacts COGS or expenses
+
+",kamal.ahuja@medtronic.com,Business,Manufacturing,,,,,,,
+26,Material Document,"Created whenever stock changes Records what material moved, how much, where, and why Serves as the audit trail for inventory, Proof of inventory movement.  Created for Goods Receipt, Goods Issue, Stock Transfer, Inventory Adjustment, 
+Production consumption",kamal.ahuja@medtronic.com,Business,Manufacturing,,,,,,,
+27,Production Order Goods Movements,"Inventory movements posted against the production order, Stock movements for production",kamal.ahuja@medtronic.com,Business,Manufacturing,,,,,,,
+28,Special Stock,"Stock that is managed separately from regular inventory due to ownership or purpose.
+Examples : Consignment stock, Project stock, Sales order stock, Customer-owned stock",kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+29,Product Avalibility,"The system’s ability to confirm whether sufficient stock is available to fulfill a customer order on a requested date.  Driven by ATP (Available-to-Promise), Current inventory, Planned receipts and issues",kamal.ahuja@medtronic.com,Business,Commercial,,,,,,,
+30,Inventory Balance,"The quantity of stock available for a material at a specific level.  In short Current stock quantity on hand
+At Levels : Plant, Storage location, Batch ,Warehouse / bin
+Includes : Unrestricted, Quality inspection, Blocked stock, 
+",kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+31,Material Revaluations (Inventory Ledger),"The financial value assigned to inventory materials.  Monetary value of inventory, Used for balance sheet valuation",kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+32,Material Valuation,"The financial value assigned to inventory materials.  Monetary value of inventory, Used for balance sheet valuation",kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+33,Billing Conditions,Pricing elements used to calculate the final invoice amount.,kamal.ahuja@medtronic.com,Business,GSR,,,,,,,
+34,Invoice Verification,"The process of matching vendor invoices against purchase orders and goods receipts.  Purpose Ensure correct price, quantity, and amount.  Prevent overpaymen",kamal.ahuja@medtronic.com,Business,GSR,,,,,,,
+35,Kits Received,"Confirmation that pre-assembled kits (bundled materials or products) have been received into inventory.  Used in Warehousing, Manufacturing, Field service.  ",kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+36,Open Orders (Provide req to ODS),"Any order that is not yet completed or closed.  Applies to Sales Orders, Purchase Orders, Production Orders, Service Orders.  In short orders still in processes",kamal.ahuja@medtronic.com,Business,Commercial,,,,,,,
+37,Price Override,"A manual change to the system-determined price in a sales document.  Used when Special customer pricing, Exception handling, One-time discounts.  Manual adjustment to price",kamal.ahuja@medtronic.com,Business,Commercial,,,,,,,
+38,Pricing Condition,"A pricing element used to calculate sales or purchase price. In short Component of price calculation
+Examples : Base price, Discount, Surcharge, Freight, Tax",kamal.ahuja@medtronic.com,Business,Commercial,,,,,,,
+39,Independent Requirements (MRP),Planned demand for finished goods not tied to a specific customer order. Forecast-based planning,kamal.ahuja@medtronic.com,Business,Manufacturing,,,,,,,
+40,Material Routing Assignment,Link between a material and its routing. Tells SAP how the material is manufactured. Assignment of production steps to material,kamal.ahuja@medtronic.com,Business,Manufacturing,,,,,,,
+41,Planned Order,"A planning document created by MRP that proposes production or procurement.  Used for Converted into a Production Order or Purchase Order, Used for capacity and material planning.  In short Proposal to produce or procure",kamal.ahuja@medtronic.com,Business,Manufacturing,,,,,,,
+42,Work Center Capacity,"The available production or labor time at a work center.  Used for  Production planning, Capacity leveling, Bottleneck analysis",kamal.ahuja@medtronic.com,Business,Manufacturing,,,,,,,
+43,Material Reservation,"A commitment of materials for future use. Used in Production Orders , Maintenance Orders, Materials reserved for an order, Service Orders.  What a reservation contains : Material number, Required quantity, Plant and storage location, Requirement date, Account assignment (order, cost center, etc.)",kamal.ahuja@medtronic.com,Business,Manufacturing,,,,,,,
+44,Production Order,"A manufacturing execution document used to plan, execute, and control production of a material.  Consists of Material to be produced,Quantity and dates,BOM and routing reference,Cost estimates",kamal.ahuja@medtronic.com,Business,Manufacturing,,,,,,,
+45,Production Order Costs,All costs collected on the production order during manufacturing,kamal.ahuja@medtronic.com,Business,Manufacturing,,,,,,,
+46,Production Order Operations,The individual production steps required to manufacture the product.  Steps performed on the shop floor,kamal.ahuja@medtronic.com,Business,Manufacturing,,,,,,,
+47,Production Order Routing,The standard sequence of operations used by the production order. In short How the product is manufactured.,kamal.ahuja@medtronic.com,Business,Manufacturing,,,,,,,
+48,Production Order Work Center,Production order information specific to a work center.,kamal.ahuja@medtronic.com,Business,Manufacturing,,,,,,,
+49,Work Center Operations,"The tasks executed at a work center.  Used for Production Orders, Maintenance / Service Orders.  In short 
+Work performed at a work center",kamal.ahuja@medtronic.com,Business,Manufacturing,,,,,,,
+50,Production Order Settlement,The process of clearing production order costs to a final receiver.  In short Transfer of production costs to accounting,kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+51,Profit Center Accounting,"A method to track revenues and costs by profit center (business unit, product line, or region).",kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+52,Purchase Order,"A formal, legally binding document sent to a vendor to procure goods or services. Consists of  Vendor, 
+Material / service, Quantity & price, Delivery date, Payment terms",kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+53,Purchase Order Line Confirmation,Vendor’s confirmation of PO details at line level. Vendor acknowledgment of the PO,kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+54,Purchase Order Schedule Line (Agreement),"A long-term procurement agreement with a vendor for repetitive purchasing. Key consists of Valid for a time period, Pricing fixed or agreed, No fixed delivery quantities upfront",kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+55,Purchase Requistion,An internal request to procure goods or services. Internal request to buy something,kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+56,Purchase Source List,"A control list that defines approved or blocked vendors for a material and plant. Purpose is to Enforces procurement rules, Ensures correct vendor selection, Supports compliance",kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+57,Quality Cost,"Costs incurred to prevent, detect, and correct quality issues.  Examples , Rework, Scrap, Returns, Warranty claims",kamal.ahuja@medtronic.com,Business,Regulatory,,,,,,,
+58,Quality Defect & Root Cause Data ,"Structured data capturing what went wrong and why it happened.  Used for Continuous improvement, Compliance and audit",kamal.ahuja@medtronic.com,Business,Regulatory,,,,,,,
+59,Quality Inspection,"The process of checking material quality against defined standards.  Checking if material meets quality standards.  Occurs at
+Goods receipt, Production (in-process inspection), Goods issue / delivery, Periodic audits",kamal.ahuja@medtronic.com,Business,Regulatory,,,,,,,
+60,Quality Notification,"A formal record of a quality problem.  Triggers Quality Inspection failures, Customer complaints, Production issues",kamal.ahuja@medtronic.com,Business,Regulatory,,,,,,,
+61,Quality Usage (Decision),"The final decision on how to handle inspected material.  Possible decisions Accept stock, Reject stock, Scrap, Rework, Return to vendor",kamal.ahuja@medtronic.com,Business,Regulatory,,,,,,,
+62,Sales Condition Item,"An individual pricing element applied to a sales order or delivery item, example Base price, Discount, Surcharge, Freight, Tax",kamal.ahuja@medtronic.com,Business,Commercial,,,,,,,
+63,Plant Maintenance Item,"A task or requirement within a maintenance plan or order.  Used for Preventive maintenance, Inspection activities, Repair planning",kamal.ahuja@medtronic.com,Business,Manufacturing,,,,,,,
+64,Shipment Detail,"Information used to plan how goods will be transported.  Includes Transportation mode, Route, Planned dates, Load assignment",kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+65,Shipment Planning Data,"Information used to plan how goods will be transported.  Includes Transportation mode, Route, Planned dates, Load assignment",kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+66,Shipment Tracking,"Information used to plan how goods will be transported.  Includes Transportation mode, Route, Planned dates, Load assignment",kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+67,Consignment Stock,"Stock that is physically at customer or vendor location but owned by the vendor until consumed. Stock at another location, but ownership not transferred",kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+68,Warehouse Transfer Order,"A warehouse execution document that instructs stock movement within a warehouse.  Exampl Picking, Bin-to-bin movement.  Physical stock movement inside warehouse",kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+69,Equipment,"A master record representing an individual physical asset. Example Machine, Vehicle, Pump, HVAC unit. Contains Technical data Location , Maintenance history. Individual asset record",kamal.ahuja@medtronic.com,Business,Manufacturing,,,,,,,
+70,Warehouse Bin Level Stock,"Inventory quantity stored in a specific bin within a warehouse. Used for picking, putaway, and replenishment",kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+71,Bill of Material,"Defines what materials and how much quantity are needed to produce one unit of a finished or semi-finished product, In short BOM = list of components needed to make a product",kamal.ahuja@medtronic.com,Business,Manufacturing,,,,,,,
+72,Production Order Components,The raw materials and semi-finished materials required to manufacture the product. Derived from the Bill of Materials (BOM),kamal.ahuja@medtronic.com,Business,Manufacturing,,,,,,,
+73,Vendor Pricing ,,kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+74,Global Inventory,"
+With SAP, global inventory is not just a static report—it’s an integrated capability that links transactional data (stock levels in MARD, batch records in MCHB, Customer Stock MSKU) . It provides inventory visibility across portfolio , operating units , locations , regions etc . It includes all  finished , raw material , project stock etc inventory .
+
+",kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+75,SOGL AI Agent,"Scrap, Obsolescence, Gains and Losses- It refers to the financial impact of inventory that becomes unusable or valueless, and the financial gains or losses that occur in a supply chain",kamal.ahuja@medtronic.com,Business,GOSC,,,,,,,
+76,ProdVision,"A structured dataset capturing key aspects of a medical device company’s operations, including product hierarchies, user profiles with business unit and territory assignments, and customer accounts categorized by medical specialty and region. It supports analysis of product performance, user activity, customer relationships, and regional sales territories.",kpradeep.reddy@medtronic.com,Business,MDM,,,,,,,
+77,Disputes,Invoice-to-Cash disputes are customer payment issues that occur after an invoice is issued but before cash is collected.,krishna.kommalapati@medtronic.com,Business,GSR,,,,,,,
+78,Baseline Tolerance,Tolerance on delivery dates.  Tolerance on delivery quantities.  Tolerance on price differences.  Tolerance on invoice amount variance. Invoice verification tolerances,krishna.kommalapati@medtronic.com,Business,GOSC,,,,,,,
+79,Complaint Activities,"Activities represent tasks or actions carried out by employees.
+Meaning ,  planned or completed action, Often created as a follow-up to an interaction or complaint
+Examples : Schedule a call, Conduct a meeting, Send a quotation, Perform an on-site visit
+Purpose : Track who does what and when, Drive follow-ups and accountability ",krishna.kommalapati@medtronic.com,Business,Quality,,,,,,,
+80,Complaint Emails,"Type of Interactions capture every contact or communication between a customer and your company. A touchpoint record can be  a Describes what  communication occurred or can be a Can be inbound or outbound.
+Examples : Customer phone call,  Email exchange , Chat or web request, Survey response.
+Purpose : Build a complete customer interaction history; Give agents full customer context ;Support customer engagement analytics",krishna.kommalapati@medtronic.com,Business,Commercial,,,,,,,
+81,Complaint Handling (DIH/BW),"Complaint Handling manages customer dissatisfaction related to products, services, pricing, delivery, or quality.
+Meaning, Created when a customer reports an issue,Represents a problem that must be resolved,Can relate to product, service, delivery, or pricing
+Examples: Damaged product,Wrong invoice, Late delivery,Poor service experience",krishna.kommalapati@medtronic.com,Business,Regulatory,,,,,,,
+82,Complaint Logging and Text area,"Complaint Logging is the process of recording the complaint details in the system. The Text Area is a free-text field used to capture unstructured information. 
+What it means : Allows detailed explanation beyond structured fields.
+Stores: Customer description of issue, Agent investigation notes, Resolution comments",krishna.kommalapati@medtronic.com,Business,Regulatory,,,,,,,
+83,Complaint Sales Orders,"A Sales Order represents a confirmed customer purchase.
+Meaning, A binding agreement between customer and company, Created after opportunity/quotation acceptance, 
+Triggers fulfillment, delivery, and billing
+Examples: Customer confirms order quantity and price, Contractually accepted purchase
+Key points : Legally binding, Often replicated to SAP, Drives Order-to-Cash (O2C)",krishna.kommalapati@medtronic.com,Business,Commercial,,,,,,,
+84,Complaint Sent,"The complaint has been submitted or forwarded to like  Customer (acknowledgement), Internal team (quality, logistics, finance)
+Examples : Complaint acknowledgment email sent to customer, Complaint details sent to Quality or Supplier, 
+Complaint forwarded to ECC / S/4HANA",krishna.kommalapati@medtronic.com,Business,Regulatory,,,,,,,
+85,Complaint Service Requests,"A Service Request is a formal record of a customer issue or service need.
+Meaning, Created when a customer needs help or reports a problem , Used by service/support teams, Can lead to repair, replacement, or investigation
+Examples : Product malfunction, Delivery issue, Technical support request, Complaint
+Key points : Not related to selling, Focused on issue resolution and customer satisfaction, 
+May generate follow-up activities or service orders",krishna.kommalapati@medtronic.com,Business,Commercial,,,,,,,
+86,Complaint Survey,"A Complaint Survey is a customer feedback questionnaire sent after or during complaint resolution.
+What it means : Captures customer satisfaction on: Response time, Resolution quality,Agent performance.
+Usually triggered when: Complaint is closed, Resolution milestone is reached
+Examples : Service quality rating request",krishna.kommalapati@medtronic.com,Business,Commercial,,,,,,,
+87,CRM Survey,"A Complaint Survey is a customer feedback questionnaire sent after or during complaint resolution.
+What it means : Captures customer satisfaction on: Response time, Resolution quality,Agent performance.
+Usually triggered when: Complaint is closed, Resolution milestone is reached
+Examples : Service quality rating request",krishna.kommalapati@medtronic.com,Business,Commercial,,,,,,,
+88,Customer Interaction,"Interactions capture every contact or communication between a customer and Company. A touchpoint record can be  a Describes what  communication occurred or can be a Can be inbound or outbound.
+Examples : Customer phone call,  Email exchange , Chat or web request, Survey response.
+Purpose : Build a complete customer interaction history; Give agents full customer context ;Support customer engagement analytics",krishna.kommalapati@medtronic.com,Business,Commercial,,,,,,,
+89,Logging and Text area,"Complaint Logging is the process of recording the complaint details in the system. The Text Area is a free-text field used to capture unstructured information. 
+What it means : Allows detailed explanation beyond structured fields.
+Stores: Customer description of issue, Agent investigation notes, Resolution comments",krishna.kommalapati@medtronic.com,Business,Regulatory,,,,,,,
+90,Opportunities,"An Opportunity represents a potential sales deal that is not yet confirmed.
+Meaning, A sales prospect with a likelihood of closing, Used by sales teams to manage the sales pipeline, Includes expected value and probability
+Examples : Customer shows interest in a product,Sales discussion or negotiation in progress,Deal is being evaluated
+Key points : No legal or financial commitment, Used for forecasting and pipeline management",krishna.kommalapati@medtronic.com,Business,Commercial,,,,,,,
+91,Sales Delivery,The execution document for shipping goods to the customer,krishna.kommalapati@medtronic.com,Business,GOSC,,,,,,,
+92,Sales Delivery Changes,"Modifications made after delivery creation. Changes to shipment details consists of Quantity change, Delivery date change, Address update, Picking adjustment",krishna.kommalapati@medtronic.com,Business,GOSC,,,,,,,
+93,General Ledger Detail,"Central repository of financial postings, Provides the official books of accounts, Basis for financial statements",krishna.kommalapati@medtronic.com,Business,GOSC,,,,,,,
+94,Goods receipt,"The physical and system confirmation that goods have been received.Created for Purchase Orders, Production Orders (finished goods), Stock Transfers",krishna.kommalapati@medtronic.com,Business,GOSC,,,,,,,
+95,Inventory Balance (Weekly Snapshot),Inventory Balance (Weekly Snapshot),krishna.kommalapati@medtronic.com,Business,GOSC,,,,,,,
+96,Invoice (Billing),A financial document sent to the customer requesting payment for goods or services delivered. Created when After delivery (goods issue) or service completion ,krishna.kommalapati@medtronic.com,Business,GSR,,,,,,,
+97,Material Movement,"Any physical or logical change in stock location or status. In short Change in inventory status or location
+Examples : Goods receipt, Goods issue, Transfer posting, Stock adjustment
+Usually Tracked by Movement types (e.g., 101, 201, 261)
+
+",krishna.kommalapati@medtronic.com,Business,Manufacturing,,,,,,,
+98,Cust Life Cycle Order,Order tied to customer lifecycle tracking,krishna.kommalapati@medtronic.com,Business,Commercial,,,,,,,
+99,Customer LifeCycle Management,The practice of managing a customer relationship from start to end.,krishna.kommalapati@medtronic.com,Business,Commercial,,,,,,,
+100,Open Orders,"Any order that is not yet completed or closed.  Applies to Sales Orders, Purchase Orders, Production Orders, Service Orders.  In short orders still in processes",krishna.kommalapati@medtronic.com,Business,Commercial,,,,,,,
+101,Sales Order,"A legally binding customer order to deliver goods or services. Consists of Customer (sold-to, ship-to, bill-to)
+Materials / services, Pricing & conditions,
+Delivery dates",krishna.kommalapati@medtronic.com,Business,Commercial,,,,,,,
+102,Sales Order Scheduled Lines,"Line-level delivery commitments for each sales order item. Consists of Delivery date(s), Delivery quantity,Goods issue date",krishna.kommalapati@medtronic.com,Business,Commercial,,,,,,,
+103,Maintenance Order,"A work order used to plan, execute, and track maintenance activities. Order to perform maintenance work",krishna.kommalapati@medtronic.com,Business,Manufacturing,,,,,,,
+104,Order Reservation,A commitment of materials for a future requirement. Purpose is to Ensures materials are available when needed,krishna.kommalapati@medtronic.com,Business,Manufacturing,,,,,,,
+105,Service Notification,"A record of a reported issue or service need.  Created when Equipment fails, Customer reports a problem",krishna.kommalapati@medtronic.com,Business,Commercial,,,,,,,
+106,Service Order Operations,An individual task or step within a Service Order. Task within a service order ,krishna.kommalapati@medtronic.com,Business,Commercial,,,,,,,
+107,Service Order,"An execution order created to resolve a service or maintenance issue. Created from Service Notification, Directly by planner",krishna.kommalapati@medtronic.com,Business,Commercial,,,,,,,
+108,Stock Transport Order,A purchase-order–based document used to move stock between plants or locations. Inter-plant stock movement order,krishna.kommalapati@medtronic.com,Business,GOSC,,,,,,,
+109,NV Commercial Agent,Snowflake Agent for NV Commercial Field staff with Salesforce and GSR data.  ,krishna.kommalapati@medtronic.com,Business,Commercial,,,,,,,
+110,Marketshare Agent,,krishna.kommalapati@medtronic.com,Business,Commercial,,,,,,,
+111,ENT Sales,,krishna.kommalapati@medtronic.com,Business,Commercial,,,,,,,
+112,Yoda 2,,krishna.kommalapati@medtronic.com,Business,GOSC,,,,,,,
+113,ENT_COMMERCIAL_AGENT,"ENT Commercial Agent is a comprehensive business intelligence platform that serves as the central source for Sales, Open Orders, Inventory and product complaint details for ENT Operating Unit analytics and reporting. This Agent also has access to ENT Market share Procedure data from AcuityMD for comparisons. ",krishna.kommalapati@medtronic.com,Business,Commercial,,,,,,,
+114,Accounts Receivable,"Records customer invoices , Tracks outstanding balances, Manages payments, credits, and disputes",krishna.kommalapati@medtronic.com ,Business,GSR,,Self,,,,,
+115,"GSR (Sales, Open Orders and Inventory)","Sales history, Inventory Snapshot, Open Orders and GSR Knowledge base articles. ","krishna.kommalapati@medtronic.com, chayashree.Tellaevarapalli@medtronic.com",Business,GSR,,,,,,,
+116,SalesPulse AI,"Predictive sales assistant on CDH Salesforce (Opp/Account/Campaign/Territory). Answers NLQ, highlights at-risk deals, and forecasts revenue by segment/region",laxmipriya.thadishetty@medtronic.com,Business,Commercial,,,,,,,
+117,Patient Journey,"Assistant leveraging CDH-curated Salesforce Procedures, Contacts, and Milestones. Provides visibility and forecasts into patient treatment pathways.",laxmipriya.thadishetty@medtronic.com,Business,Regulatory,,,,,,,
+118,HCO MDM,"Dataset contains the Accounts, contacts, and details for Site of Service, contacts and Affiliations as well as Enterprise Accounts",maurice.c.manton@medtronic.com,Business,MDM,,,,,,,
+119,Customer Sales Organization,"lookup a Customers associated Sales Reps,Sales Office, Sales Hierarchy and  assiciated MPG ",maurice.c.manton@medtronic.com,Business,Commercial,,,,,,,
+120,Common Data Framework Responsible Archtect,"This dataset contains information about the Common Data Framework's organizational structure, including domains and subdomains with their descriptions, along with the architects responsible for each area.",Meg,Business,GOSC,,,,,,,
+121,Vistex Transactions,"Users can use this agent to view Vistex transactions and also summarize transactions based on Sales Rebate Identifiers, Sales Order Numbers, Accounting Document Identifiers, etc.",Meg,Business,GSR,,,,,,,
+122,Cornerstone Training Insights,,mradul.yadav@medtronic.com,Business,GOSC,,,,,,,
+123,AI Agent for Compliance,,mradul.yadav@medtronic.com,Business,Regulatory,,,,,,,
+124,MAP Agile Chatbot,"Developed by the EDAP and Hyper-Automation team, the project addresses the ""needle in a haystack"" challenge by transforming a library of over 3,000 engineering and quality documents into a searchable knowledge base. The architecture utilizes metadata and deep-content retrieval to serve distinct business units, including dedicated bots for CST, ENT, and NV (integrated with MAP Agile) and a specialized PH/NM chatbot for Documentum engineering records.",mradul.yadav@medtronic.com,Business,Regulatory,,,,,,,
+125,Medsurg Lead Sales Insights,"Tracks comprehensive lead data—including contact info, engagement history, and location—to support targeted marketing, lead management, and strategic sales decisions.",nishab4@medtronic.com,Business,Commercial,,,,,,,
+126,Kafka Stream Intelligence Agent,"Monitors Kafka topics used for inbound/outbound MDM integration and detects lag, message anomalies, or schema mismatch, Keeps real-time pipelines stable.
+",Pradeep,Business,GOSC,,,,,,,
+127,Documentation Generator Agent,"Auto-generates system and data flow documentation in Markdown/PDF based on pipeline metadata, Saves hours of manual documentation.
+",Pradeep,Business,GOSC,,,,,,,
+128,Tableau User Management,"This agent is an intelligent interface for analyzing user and group interactions in Tableau. It leverages a semantic data model to let users explore and query information about users, groups, roles, and permissions.  
+It supports analyses such as tracking user activity, examining group relationships, auditing system settings, and managing access. Designed for Tableau administrators and analysts, it simplifies user and group management, strengthens security monitoring, and supports data-driven decisions for access control and collaboration.",sagar.narra@medtronic.com,Business,Commercial,WIP,Self,,Snowflake,,,
+129,Cardiovascular Opportunity Analyser,"This agent enables comprehensive sales opportunity management for cardiovascular medical devices and services. It organizes detailed healthcare sales data around opportunities, including financial metrics, contract and competitive information, and cardiovascular-specific details like disease states and clinical districts.",sagar.narra@medtronic.com,Business,Commercial,WIP,Self,,Snowflake,,,
+130,Capitation Reporting Assistant,Allows Back Office and Sales team to quickly gain insights into reporting data instead of pulling 11-25 individual reports and filtering out on required information.,saiabhyudhayreddy.ravula@medtronic.com,Business,Commercial,,,,,,,
+131,Production Planning Copilot,"Allows planners to identify potential bottlenecks,  and provide insights on material availablity, production capacity and customer demand.",sairam.gandham@medtronic.com,Business,Manufacturing,,,,,,,
+132,Contact MDM,"Dataset contains all HealthCare Providers, contacts, and details for all omnichanell contacts which are mastered in MDM and outbound to Snowflake",Santosh Prashant,Business,Commercial,,,,,,,
+133,GSD Agent,Global Service Desk,shahp24@medtronic.com,IT4IT,Commercial,,,,,,,
+134,Freight Spend AI Agent,"The main objective is to compare freight spend and volume (kilos shipped) before and after the rollout of the Transportation Management System (TMS) at specific origins, using data from Intelligent Audit and TMS, to identify cost savings and improved load consolidation",Sridevi,Business,GOSC,,,,,,,
+135,Device Implant Insights,"Summarizations by time, material, facility, provider ( implanting, follow-up, and referring), patient",trina.wiles@medtronic.com,Business,Regulatory,,,,,,,
+136,Data Implant Query,"Allows users to search implant history by patient, serial number",trina.wiles@medtronic.com,Business,Regulatory,,,,,,,
+137,Product Search,"Provides instant access to comprehensive product information through natural language interactions. It understands user questions and delivers accurate, context-aware responses related to product features, specifications and related offerings.",trina.wiles@medtronic.com,Business,Commercial,,,,,,,
+138,ATTEND_CVENT,"Cvent attendee shows event attendance, hotel requests, room rates, and air travel data",trina.wiles@medtronic.com,Business,GOSC,,,,,,,
+139,SIGNOFF_PITCHCHART,"Pitchchart sign-off data including scrap, rework, completions, downtime, and production tracking.",trina.wiles@medtronic.com,Business,Manufacturing,,,,,,,
+140,Project Cost Agent,Project Costs from SAP,,Business,GOSC,,,,,,,
+141,HCP Meals Trend,,,Business,Commercial,,,,,,,
+142,ProdHierarchy Agent,"Provides different types of  product hierarchies and classifications . It allows users to input a product identifier and returns the complete product hierarchy along with detailed classification attributes assigned to that product. This helps in understanding product across different classifications like Pricing Hierarchy, Manufacturing Hierarchy.",,Business,GOSC,,,,,,,
+143,Asset Finder Agent,"Provides comprehensive information about manufacturing assets and materials. It tracks production batches with manufacturing dates, quality control information, and traceability data. This enables analysis of asset utilization, material lifecycle management, production quality trends across manufacturing operations.",,Business,Manufacturing,,,,,,,
+144,WWR Agent,,,Business,GOSC,,,,,,,
+145,Datapulse Agent,"Provides master data quality to assess, monitor, and report on the quality of master data across various domains such as customers, contact,patient, product, supplier and more. This agent provides a centralized view of data quality metrics, highlights inconsistencies or errors, and offers actionable insights to help maintain high data standards throughout the organization.",,Business,GOSC,,,,,,,
+146,Revenue & Billing Reconciliation Agent (SD ? FI),"Reconciles billing documents to accounting postings, finds missing/duplicate postings, analyzes taxes/conditions.",,Business,GSR,,,,,,,
+147,ProjectPulse,"Streamline project management with a conversational AI that delivers real-time insights, eliminating dashboard overload and enabling faster, smarter decision",,Business,GOSC,,,,,,,
+148,Goods Movement Error Confirmation,"agent monitors and analyzes failed goods movements that occur during production order confirmations. Whenever SAP attempts to post a goods movement—such as component backflush, activity consumption, or goods receipt—and the posting fails, the details land in the AFFW table.",,Business,Manufacturing,,,,,,,
+167,"STARA - SAP Training, Access & Role agent","Recomments SAP Role, provides Training prerequisite and guide user on GTAT, Cornerstone and GRC processes",aditya.akella@medtronic.com,IT4IT,SAP,UAT,Demand,1815,Snowflake,,,

@@ -1,0 +1,13 @@
+# Conda environment for deploying this app as Streamlit-in-Snowflake (SiS).
+# Streamlit in Snowflake installs packages from the Snowflake Anaconda channel only -
+# snowflake-connector-python is NOT needed there because SiS provides st.connection
+# ("snowflake") with the active Snowpark session automatically (see common/cortex.py).
+name: pm_agent
+channels:
+  - snowflake
+dependencies:
+  - streamlit=1.38.*
+  - pandas
+  - plotly
+  - python-dateutil
+  - openpyxl

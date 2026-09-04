@@ -1,0 +1,97 @@
+Program,Record ID,Title,Phase,Site,Record Owner,Record State,Gate,Opened,Target Close,Actual Close,Last Action,Effort (hrs)
+NextGen Trackwise,TW-00001,Build Hypercare reporting extract,Validation,Galway,Marta Kowalski,Awaiting QA Sign-off,Gate 2,2025-06-16,2025-07-29,,2026-08-06,21.0
+NextGen Trackwise,TW-00002,Deploy Hypercare user role,Migration,Singapore,Hiroshi Tanaka,Closed,Gate 3,2025-12-13,2026-05-10,2026-05-11,2026-05-11,8.0
+NextGen Trackwise,TW-00003,Design Hypercare user role,Training,Minneapolis,Daniel Osei,Draft,Gate 4,2025-02-19,2025-05-23,,2026-03-29,48.0
+NextGen Trackwise,TW-00004,Deploy Validation cutover task,Validation,Singapore,Priya Nandakumar,Closed,Gate 1,2025-10-21,2026-05-04,2026-06-17,2026-06-17,11.0
+NextGen Trackwise,TW-00005,Integrate Training training module,Validation,Singapore,Marta Kowalski,Closed,Gate 2,2024-11-04,2025-02-05,2024-12-30,2024-12-30,15.0
+NextGen Trackwise,TW-00006,Automate Migration API contract,Validation,Singapore,Daniel Osei,Awaiting QA Sign-off,Gate 3,2025-08-28,2025-10-20,,2026-07-27,24.0
+NextGen Trackwise,TW-00007,Deploy Validation dashboard,Migration,Singapore,Sean Gallagher,Closed,Gate 4,2025-03-28,2025-05-08,2025-05-08,2025-05-08,27.0
+NextGen Trackwise,TW-00008,Onboard Migration reconciliation,Validation,Singapore,Daniel Osei,Closed,Gate 1,2025-05-29,2025-06-18,2025-06-17,2025-06-17,5.0
+NextGen Trackwise,TW-00009,Integrate Validation test script,Hypercare,Galway,Priya Nandakumar,Closed,Gate 2,2025-03-19,2025-05-06,2025-05-09,2025-05-09,19.0
+NextGen Trackwise,TW-00010,Automate Validation dashboard,Hypercare,Galway,Marta Kowalski,Verification,Gate 3,2025-06-21,2025-11-25,,2026-08-17,49.0
+NextGen Trackwise,TW-00011,Test Training interface,Migration,Galway,Daniel Osei,Awaiting QA Sign-off,Gate 4,2025-01-13,2025-04-20,,2026-07-29,17.0
+NextGen Trackwise,TW-00012,Deploy Training test script,Validation,Singapore,Priya Nandakumar,Closed,Gate 1,2025-03-03,2025-05-07,2025-05-03,2025-05-03,20.0
+NextGen Trackwise,TW-00013,Integrate Migration master record,Validation,Minneapolis,Marta Kowalski,Closed,Gate 2,2025-07-08,2025-08-20,2025-08-10,2025-08-10,28.0
+NextGen Trackwise,TW-00014,Document Validation batch job,Migration,Galway,Marta Kowalski,Closed,Gate 3,2025-11-16,2026-02-12,2026-01-25,2026-01-25,21.0
+NextGen Trackwise,TW-00015,Automate Hypercare batch job,Migration,Galway,Priya Nandakumar,Draft,Gate 4,2025-02-09,2025-06-30,,2026-04-28,9.0
+NextGen Trackwise,TW-00016,Integrate Training test script,Training,Galway,Marta Kowalski,Draft,Gate 1,2024-11-30,2025-02-09,,2026-05-23,23.0
+NextGen Trackwise,TW-00017,Design Training reconciliation,Migration,Galway,Marta Kowalski,Draft,Gate 2,2025-10-01,2025-11-27,,2026-05-29,59.0
+NextGen Trackwise,TW-00018,Integrate Validation master record,Migration,Singapore,Hiroshi Tanaka,Closed,Gate 3,2025-01-27,2025-03-11,2025-03-05,2025-03-05,9.0
+NextGen Trackwise,TW-00019,Integrate Validation interface,Migration,Minneapolis,Daniel Osei,Closed,Gate 4,2026-01-24,2026-05-12,2026-05-08,2026-05-08,17.0
+NextGen Trackwise,TW-00020,Integrate Validation master record,Training,Singapore,Priya Nandakumar,Verification,Gate 1,2025-02-10,2025-02-20,,2026-08-06,7.0
+NextGen Trackwise,TW-00021,Design Validation data model,Training,Singapore,Sean Gallagher,Verification,Gate 2,2025-08-03,2025-11-04,,2026-09-03,56.0
+NextGen Trackwise,TW-00022,Build Hypercare user role,Validation,Singapore,Marta Kowalski,Closed,Gate 3,2024-11-04,2025-08-09,2025-01-06,2025-01-06,22.0
+NextGen Trackwise,TW-00023,Validate Migration cutover task,Migration,Singapore,Priya Nandakumar,Closed,Gate 4,2026-01-09,2026-01-31,2026-02-02,2026-02-02,11.0
+NextGen Trackwise,TW-00024,Integrate Training audit trail,Training,Galway,Amara Okafor,Closed,Gate 1,2025-06-02,2025-07-27,2025-07-25,2025-07-25,26.0
+NextGen Trackwise,TW-00025,Design Hypercare cutover task,Training,Minneapolis,Priya Nandakumar,Closed,Gate 2,2025-11-23,2026-01-17,2026-01-23,2026-01-23,8.0
+NextGen Trackwise,TW-00026,Integrate Hypercare training module,Training,Galway,Hiroshi Tanaka,Closed,Gate 3,2025-05-26,2025-07-18,2025-07-11,2025-07-11,9.0
+NextGen Trackwise,TW-00027,Validate Migration interface,Training,Minneapolis,Hiroshi Tanaka,Closed,Gate 4,2025-05-26,2025-10-12,2025-09-19,2025-09-19,6.0
+NextGen Trackwise,TW-00028,Design Migration batch job,Training,Minneapolis,Sean Gallagher,Closed,Gate 1,2025-07-01,2025-09-23,2025-09-20,2025-09-20,9.0
+NextGen Trackwise,TW-00029,Migrate Migration batch job,Migration,Singapore,Sean Gallagher,Awaiting QA Sign-off,Gate 2,2025-08-09,2025-10-27,,2026-06-20,81.0
+NextGen Trackwise,TW-00030,Migrate Validation master record,Training,Galway,Priya Nandakumar,Verification,Gate 3,2025-06-04,2025-09-18,,2026-08-29,12.0
+NextGen Trackwise,TW-00031,Configure Hypercare test script,Migration,Galway,Hiroshi Tanaka,Draft,Gate 4,2025-03-26,2025-06-07,,2026-05-08,37.0
+NextGen Trackwise,TW-00032,Onboard Training master record,Migration,Singapore,Priya Nandakumar,Closed,Gate 1,2024-11-04,2025-11-27,2025-11-16,2025-11-16,11.0
+NextGen Trackwise,TW-00033,Build Migration interface,Validation,Minneapolis,Marta Kowalski,Closed,Gate 2,2024-11-12,2025-01-31,2025-01-18,2025-01-18,48.0
+NextGen Trackwise,TW-00034,Deploy Training user role,Migration,Singapore,Marta Kowalski,Closed,Gate 3,2025-11-25,2026-02-14,2026-02-02,2026-02-02,10.0
+NextGen Trackwise,TW-00035,Refactor Training reporting extract,Validation,Galway,Priya Nandakumar,Closed,Gate 4,2025-05-27,2025-06-15,2025-06-17,2025-06-17,25.0
+NextGen Trackwise,TW-00036,Automate Validation master record,Validation,Galway,Priya Nandakumar,Closed,Gate 1,2024-11-04,2024-12-21,2024-12-10,2024-12-10,25.0
+NextGen Trackwise,TW-00037,Test Training batch job,Migration,Galway,Priya Nandakumar,Verification,Gate 2,2025-05-03,2025-10-07,,2026-09-03,195.0
+NextGen Trackwise,TW-00038,Test Hypercare API contract,Training,Galway,Priya Nandakumar,Verification,Gate 3,2025-07-24,2025-08-17,,2026-08-06,42.0
+NextGen Trackwise,TW-00039,Onboard Training reconciliation,Hypercare,Galway,Priya Nandakumar,Verification,Gate 4,2024-12-26,2025-01-14,,2026-08-10,14.0
+NextGen Trackwise,TW-00040,Automate Training master record,Validation,Galway,Amara Okafor,Closed,Gate 1,2025-12-19,2026-03-11,2026-02-19,2026-02-19,44.0
+NextGen Trackwise,TW-00041,Configure Validation data model,Hypercare,Minneapolis,Daniel Osei,Closed,Gate 2,2024-12-12,2025-06-11,2025-05-04,2025-05-04,164.0
+NextGen Trackwise,TW-00042,Automate Training master record,Migration,Minneapolis,Hiroshi Tanaka,Closed,Gate 3,2026-02-07,2026-04-10,2026-04-11,2026-04-11,6.0
+NextGen Trackwise,TW-00043,Document Hypercare user role,Training,Galway,Amara Okafor,Closed,Gate 4,2025-04-14,2025-06-08,2025-06-02,2025-06-02,11.0
+NextGen Trackwise,TW-00044,Build Migration dashboard,Training,Minneapolis,Hiroshi Tanaka,Closed,Gate 1,2025-12-15,2026-01-10,2026-01-03,2026-01-03,19.0
+NextGen Trackwise,TW-00045,Deploy Training reconciliation,Hypercare,Galway,Daniel Osei,Closed,Gate 2,2026-02-06,2026-05-05,2026-04-28,2026-04-28,16.0
+NextGen Trackwise,TW-00046,Decommission Training interface,Validation,Singapore,Amara Okafor,Verification,Gate 3,2025-12-03,2026-02-16,,2026-08-14,18.0
+NextGen Trackwise,TW-00047,Build Validation user role,Hypercare,Minneapolis,Hiroshi Tanaka,Closed,Gate 4,2024-12-10,2024-12-26,2024-12-30,2024-12-30,7.0
+NextGen Trackwise,TW-00048,Design Migration dashboard,Validation,Minneapolis,Hiroshi Tanaka,Voided,Gate 1,2025-07-09,2025-12-07,2025-11-09,2025-11-09,85.0
+NextGen Trackwise,TW-00049,Reconcile Hypercare data model,Hypercare,Minneapolis,Amara Okafor,Voided,Gate 2,2026-05-25,2026-08-31,2026-09-01,2026-09-01,7.0
+NextGen Trackwise,TW-00050,Deploy Hypercare batch job,Training,Singapore,Marta Kowalski,Closed,Gate 3,2026-04-13,2026-08-02,2026-08-15,2026-08-15,20.0
+NextGen Trackwise,TW-00051,Migrate Migration data model,Migration,Singapore,Marta Kowalski,Verification,Gate 4,2025-01-18,2025-04-12,,2026-08-06,62.0
+NextGen Trackwise,TW-00052,Automate Migration audit trail,Migration,Minneapolis,Amara Okafor,Closed,Gate 1,2025-12-29,2026-04-18,2026-03-31,2026-03-31,23.0
+NextGen Trackwise,TW-00053,Integrate Hypercare dashboard,Validation,Galway,Daniel Osei,Verification,Gate 2,2025-04-29,2025-07-25,,2026-08-12,10.0
+NextGen Trackwise,TW-00054,Validate Validation API contract,Hypercare,Singapore,Amara Okafor,Verification,Gate 3,2025-08-20,2025-12-31,,2026-08-24,7.0
+NextGen Trackwise,TW-00055,Validate Migration API contract,Training,Singapore,Priya Nandakumar,Verification,Gate 4,2025-08-23,2025-09-16,,2026-08-12,20.0
+NextGen Trackwise,TW-00056,Deploy Validation conversion rule,Hypercare,Galway,Priya Nandakumar,Verification,Gate 1,2025-10-16,2025-11-17,,2026-08-27,12.0
+NextGen Trackwise,TW-00057,Build Validation reporting extract,Training,Minneapolis,Marta Kowalski,Closed,Gate 2,2025-10-04,2025-11-23,2025-11-12,2025-11-12,29.0
+NextGen Trackwise,TW-00058,Integrate Training test script,Hypercare,Singapore,Priya Nandakumar,Verification,Gate 3,2025-07-04,2025-08-24,,2026-08-27,7.0
+NextGen Trackwise,TW-00059,Validate Migration master record,Hypercare,Singapore,Sean Gallagher,Closed,Gate 4,2025-04-18,2025-07-16,2025-07-04,2025-07-04,50.0
+NextGen Trackwise,TW-00060,Design Hypercare master record,Migration,Galway,Priya Nandakumar,Closed,Gate 1,2025-11-19,2026-01-15,2026-02-02,2026-02-02,27.0
+NextGen Trackwise,TW-00061,Onboard Hypercare conversion rule,Training,Minneapolis,Hiroshi Tanaka,Closed,Gate 2,2025-03-24,2025-09-04,2025-07-23,2025-07-23,28.0
+NextGen Trackwise,TW-00062,Design Hypercare reconciliation,Migration,Singapore,Priya Nandakumar,Verification,Gate 3,2026-01-22,2026-05-15,,2026-08-23,88.0
+NextGen Trackwise,TW-00063,Decommission Training data model,Hypercare,Minneapolis,Sean Gallagher,Closed,Gate 4,2025-06-26,2025-08-06,2025-07-31,2025-07-31,16.0
+NextGen Trackwise,TW-00064,Build Training API contract,Training,Singapore,Daniel Osei,Closed,Gate 1,2026-05-24,2026-08-21,2026-08-02,2026-08-02,12.0
+NextGen Trackwise,TW-00065,Integrate Training dashboard,Migration,Singapore,Priya Nandakumar,Awaiting QA Sign-off,Gate 2,2025-08-07,2025-09-07,,2026-08-07,15.0
+NextGen Trackwise,TW-00066,Build Hypercare user role,Training,Galway,Priya Nandakumar,Closed,Gate 3,2024-12-15,2025-02-21,2025-02-08,2025-02-08,20.0
+NextGen Trackwise,TW-00067,Integrate Validation approval workflow,Migration,Galway,Marta Kowalski,Closed,Gate 4,2025-12-03,2026-01-28,2026-02-15,2026-02-15,22.0
+NextGen Trackwise,TW-00068,Deploy Training dashboard,Training,Minneapolis,Sean Gallagher,Closed,Gate 1,2026-08-04,2026-08-11,2026-08-11,2026-08-11,11.0
+NextGen Trackwise,TW-00069,Build Validation approval workflow,Migration,Singapore,Sean Gallagher,Closed,Gate 2,2025-10-07,2026-07-15,2026-07-06,2026-07-06,4.0
+NextGen Trackwise,TW-00070,Test Migration user role,Migration,Minneapolis,Daniel Osei,Verification,Gate 3,2025-09-01,2025-11-24,,2026-08-30,14.0
+NextGen Trackwise,TW-00071,Onboard Migration batch job,Hypercare,Minneapolis,Daniel Osei,Closed,Gate 4,2025-06-18,2025-08-03,2025-07-30,2025-07-30,33.0
+NextGen Trackwise,TW-00072,Document Training conversion rule,Validation,Singapore,Priya Nandakumar,Closed,Gate 1,2025-05-21,2026-02-07,2025-12-08,2025-12-08,27.0
+NextGen Trackwise,TW-00073,Build Hypercare training module,Hypercare,Singapore,Daniel Osei,Verification,Gate 2,2025-02-13,2025-04-01,,2026-09-01,71.0
+NextGen Trackwise,TW-00074,Refactor Validation approval workflow,Validation,Galway,Marta Kowalski,Closed,Gate 3,2026-04-01,2026-06-13,2026-06-06,2026-06-06,139.0
+NextGen Trackwise,TW-00075,Configure Training data model,Validation,Galway,Priya Nandakumar,Verification,Gate 4,2024-11-21,2025-01-18,,2026-08-17,48.0
+NextGen Trackwise,TW-00076,Design Validation user role,Validation,Galway,Marta Kowalski,Closed,Gate 1,2025-04-02,2025-10-25,2025-09-19,2025-09-19,83.0
+NextGen Trackwise,TW-00077,Document Validation training module,Validation,Minneapolis,Amara Okafor,Verification,Gate 2,2026-01-14,2026-02-27,,2026-08-31,48.0
+NextGen Trackwise,TW-00078,Migrate Migration approval workflow,Validation,Galway,Priya Nandakumar,Closed,Gate 3,2025-09-25,2025-12-22,2025-12-01,2025-12-01,112.0
+NextGen Trackwise,TW-00079,Design Training batch job,Hypercare,Singapore,Priya Nandakumar,Closed,Gate 4,2024-11-04,2025-02-12,2025-03-11,2025-03-11,127.0
+NextGen Trackwise,TW-00080,Onboard Validation audit trail,Hypercare,Galway,Priya Nandakumar,Closed,Gate 1,2024-11-04,2025-02-09,2025-01-08,2025-01-08,56.0
+NextGen Trackwise,TW-00081,Deploy Migration reconciliation,Training,Singapore,Priya Nandakumar,Closed,Gate 2,2025-08-19,2025-10-23,2025-10-17,2025-10-17,45.0
+NextGen Trackwise,TW-00082,Reconcile Hypercare dashboard,Validation,Singapore,Priya Nandakumar,Closed,Gate 3,2025-09-26,2026-02-21,2026-01-25,2026-01-25,20.0
+NextGen Trackwise,TW-00083,Document Migration reconciliation,Hypercare,Singapore,Marta Kowalski,Verification,Gate 4,2025-09-13,2026-05-18,,2026-08-20,23.0
+NextGen Trackwise,TW-00084,Document Hypercare batch job,Training,Singapore,Priya Nandakumar,Closed,Gate 1,2026-02-02,2026-04-07,2026-04-17,2026-04-17,18.0
+NextGen Trackwise,TW-00085,Automate Hypercare test script,Training,Singapore,Hiroshi Tanaka,Closed,Gate 2,2026-03-30,2026-06-17,2026-06-04,2026-06-04,42.0
+NextGen Trackwise,TW-00086,Build Migration master record,Hypercare,Singapore,Amara Okafor,Closed,Gate 3,2026-01-25,2026-03-23,2026-04-02,2026-04-02,13.0
+NextGen Trackwise,TW-00087,Integrate Training interface,Migration,Singapore,Sean Gallagher,Closed,Gate 4,2025-10-10,2026-03-01,2026-02-25,2026-02-25,20.0
+NextGen Trackwise,TW-00088,Automate Training cutover task,Migration,Singapore,Marta Kowalski,Closed,Gate 1,2024-11-04,2024-12-24,2024-12-07,2024-12-07,3.0
+NextGen Trackwise,TW-00089,Validate Migration reconciliation,Hypercare,Singapore,Priya Nandakumar,Verification,Gate 2,2025-11-28,2026-01-26,,2026-08-30,113.0
+NextGen Trackwise,TW-00090,Reconcile Migration conversion rule,Training,Singapore,Priya Nandakumar,Verification,Gate 3,2026-02-17,2026-03-10,,2026-08-31,20.0
+NextGen Trackwise,TW-00091,Migrate Migration conversion rule,Training,Singapore,Priya Nandakumar,Closed,Gate 4,2024-12-09,2025-01-05,2025-01-07,2025-01-07,36.0
+NextGen Trackwise,TW-00092,Integrate Validation batch job,Training,Galway,Sean Gallagher,Closed,Gate 1,2025-01-25,2025-03-25,2025-03-11,2025-03-11,89.0
+NextGen Trackwise,TW-00093,Reconcile Validation data model,Hypercare,Singapore,Sean Gallagher,Closed,Gate 2,2026-03-15,2026-05-14,2026-05-13,2026-05-13,31.0
+NextGen Trackwise,TW-00094,Migrate Migration training module,Migration,Singapore,Daniel Osei,Closed,Gate 3,2025-09-21,2026-02-10,2026-03-23,2026-03-23,88.0
+NextGen Trackwise,TW-00095,Decommission Hypercare API contract,Validation,Galway,Priya Nandakumar,Closed,Gate 4,2026-05-09,2026-07-23,2026-08-02,2026-08-02,8.0
+NextGen Trackwise,TW-00096,Design Validation audit trail,Migration,Minneapolis,Daniel Osei,Closed,Gate 1,2026-07-17,2026-08-19,2026-08-21,2026-08-21,208.0

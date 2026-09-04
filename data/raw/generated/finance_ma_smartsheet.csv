@@ -1,0 +1,302 @@
+Program,Row ID,Outline Level,Task Name,Phase,Function,Assigned To,Status,% Complete,Start,Finish,Completed On,Modified,Duration (hrs),Predecessors
+Finance Digital Transformation,1,1,Close Automation,Close Automation,Finance,,In Progress,60,2024-09-24,2026-10-04,,2026-09-01,2145.0,
+Finance Digital Transformation,2,2,Refactor Reporting Layer approval workflow,Close Automation,Procure to Pay,Sean Gallagher,Complete,100,2024-09-24,2024-11-29,2024-12-04,2024-12-04,54.0,
+Finance Digital Transformation,3,2,Onboard Close Automation reconciliation,Close Automation,Treasury,Amara Okafor,On Hold,72,2026-06-18,2026-09-02,,2026-06-18,31.0,
+Finance Digital Transformation,4,2,Refactor Close Automation cutover task,Close Automation,Treasury,Daniel Osei,In Progress,20,2026-03-28,2026-09-08,,2026-08-15,5.0,
+Finance Digital Transformation,5,2,Deploy Reporting Layer test script,Close Automation,Procure to Pay,Priya Nandakumar,Not Started,0,2024-11-23,2025-04-30,,2026-07-11,86.0,
+Finance Digital Transformation,6,2,Refactor Controls & SOX data model,Close Automation,Order to Cash,Daniel Osei,Not Started,0,2025-05-11,2025-06-22,,2026-07-15,25.0,
+Finance Digital Transformation,7,2,Document Close Automation batch job,Close Automation,Order to Cash,Sean Gallagher,Not Started,0,2024-10-06,2024-11-06,,2026-06-23,35.0,1
+Finance Digital Transformation,8,2,Automate Reporting Layer training module,Close Automation,Order to Cash,Hiroshi Tanaka,Complete,100,2025-11-23,2025-12-26,2025-12-21,2025-12-21,69.0,
+Finance Digital Transformation,9,2,Build Controls & SOX test script,Close Automation,Order to Cash,Marta Kowalski,Complete,100,2025-07-03,2025-07-18,2025-07-22,2025-07-22,39.0,1
+Finance Digital Transformation,10,2,Validate Close Automation test script,Close Automation,Treasury,Priya Nandakumar,In Progress,19,2026-02-02,2026-10-04,,2026-09-01,28.0,
+Finance Digital Transformation,11,2,Reconcile Data Migration reconciliation,Close Automation,Record to Report,Priya Nandakumar,In Progress,28,2024-09-28,2024-11-13,,2026-08-16,23.0,
+Finance Digital Transformation,12,2,Validate Data Migration interface,Close Automation,Treasury,Sean Gallagher,Complete,100,2025-04-08,2025-05-06,2025-05-11,2025-05-11,25.0,
+Finance Digital Transformation,13,2,Configure Close Automation reconciliation,Close Automation,Treasury,Priya Nandakumar,Complete,100,2026-06-13,2026-07-10,2026-07-10,2026-07-10,14.0,
+Finance Digital Transformation,14,2,Integrate Controls & SOX training module,Close Automation,Order to Cash,Priya Nandakumar,In Progress,35,2026-06-12,2026-07-03,,2026-08-17,22.0,1
+Finance Digital Transformation,15,2,Migrate Reporting Layer audit trail,Close Automation,Order to Cash,Amara Okafor,In Progress,31,2025-07-06,2025-08-15,,2026-08-07,96.0,
+Finance Digital Transformation,16,2,Test Reporting Layer test script,Close Automation,Treasury,Daniel Osei,In Progress,75,2025-03-29,2025-07-31,,2026-08-20,7.0,
+Finance Digital Transformation,17,2,Integrate Controls & SOX batch job,Close Automation,Treasury,Hiroshi Tanaka,In Progress,82,2025-05-11,2025-07-23,,2026-08-21,29.0,
+Finance Digital Transformation,18,2,Deploy Controls & SOX cutover task,Close Automation,Treasury,Priya Nandakumar,In Progress,51,2025-06-02,2025-07-15,,2026-08-24,43.0,
+Finance Digital Transformation,19,2,Decommission Reporting Layer dashboard,Close Automation,Treasury,Priya Nandakumar,Complete,100,2025-04-13,2025-06-19,2025-06-19,2025-06-19,23.0,1
+Finance Digital Transformation,20,2,Reconcile Reporting Layer test script,Close Automation,Procure to Pay,Priya Nandakumar,Complete,100,2026-06-27,2026-07-30,2026-08-05,2026-08-05,196.0,
+Finance Digital Transformation,21,2,Automate Close Automation audit trail,Close Automation,Record to Report,Marta Kowalski,Complete,100,2026-07-31,2026-09-05,2026-08-31,2026-08-31,50.0,1
+Finance Digital Transformation,22,2,Validate Close Automation interface,Close Automation,Treasury,Priya Nandakumar,Complete,100,2026-02-20,2026-04-04,2026-03-27,2026-03-27,18.0,
+Finance Digital Transformation,23,2,Refactor Data Migration master record,Close Automation,Treasury,Amara Okafor,In Progress,70,2025-01-26,2025-03-21,,2026-08-25,45.0,1
+Finance Digital Transformation,24,2,Build Reporting Layer reporting extract,Close Automation,Treasury,Daniel Osei,On Hold,62,2025-03-17,2025-06-17,,2026-05-15,201.0,1
+Finance Digital Transformation,25,2,Onboard Data Migration cutover task,Close Automation,Treasury,Priya Nandakumar,Complete,100,2025-07-12,2025-08-14,2025-08-12,2025-08-12,14.0,1
+Finance Digital Transformation,26,2,Reconcile Data Migration interface,Close Automation,Treasury,Priya Nandakumar,Complete,100,2025-01-01,2025-03-26,2025-03-21,2025-03-21,8.0,
+Finance Digital Transformation,27,2,Design Controls & SOX reconciliation,Close Automation,Treasury,Priya Nandakumar,Not Started,0,2025-12-21,2026-02-11,,2026-07-25,33.0,
+Finance Digital Transformation,28,2,Design Controls & SOX conversion rule,Close Automation,Record to Report,Priya Nandakumar,In Progress,63,2025-10-26,2026-03-19,,2026-08-08,64.0,1
+Finance Digital Transformation,29,2,Migrate Close Automation interface,Close Automation,Treasury,Priya Nandakumar,Complete,100,2024-10-23,2024-11-17,2024-11-11,2024-11-11,11.0,
+Finance Digital Transformation,30,2,Onboard Controls & SOX data model,Close Automation,Order to Cash,Priya Nandakumar,On Hold,41,2025-07-27,2025-09-23,,2026-08-03,22.0,
+Finance Digital Transformation,31,2,Validate Controls & SOX reconciliation,Close Automation,Order to Cash,Marta Kowalski,Complete,100,2025-08-01,2025-09-13,2025-09-16,2025-09-16,10.0,
+Finance Digital Transformation,32,2,Refactor Data Migration approval workflow,Close Automation,Order to Cash,Daniel Osei,In Progress,17,2024-11-24,2025-01-10,,2026-08-28,22.0,
+Finance Digital Transformation,33,2,Reconcile Data Migration reporting extract,Close Automation,Treasury,Lucia Ferrari,In Progress,24,2026-04-06,2026-05-09,,2026-08-19,16.0,
+Finance Digital Transformation,34,2,Deploy Close Automation conversion rule,Close Automation,Procure to Pay,Priya Nandakumar,In Progress,36,2024-12-27,2025-01-13,,2026-08-18,156.0,
+Finance Digital Transformation,35,2,Refactor Reporting Layer reporting extract,Close Automation,Procure to Pay,Lucia Ferrari,Complete,100,2026-06-08,2026-07-03,2026-06-28,2026-06-28,48.0,1
+Finance Digital Transformation,36,2,Reconcile Data Migration cutover task,Close Automation,Order to Cash,Hiroshi Tanaka,In Progress,37,2025-01-28,2025-03-18,,2026-08-19,62.0,1
+Finance Digital Transformation,37,2,Onboard Close Automation cutover task,Close Automation,Procure to Pay,Hiroshi Tanaka,On Hold,47,2025-03-23,2025-06-04,,2026-08-22,30.0,1
+Finance Digital Transformation,38,2,Decommission Close Automation API contract,Close Automation,Record to Report,Priya Nandakumar,Complete,100,2026-07-01,2026-08-27,2026-08-24,2026-08-24,16.0,
+Finance Digital Transformation,39,2,Build Reporting Layer master record,Close Automation,Order to Cash,Lucia Ferrari,Cancelled,0,2026-08-07,2026-08-22,2026-08-24,2026-08-24,12.0,
+Finance Digital Transformation,40,2,Automate Data Migration master record,Close Automation,Record to Report,Amara Okafor,In Progress,16,2025-04-04,2025-05-04,,2026-08-13,9.0,
+Finance Digital Transformation,41,2,Document Data Migration batch job,Close Automation,Record to Report,Daniel Osei,Complete,100,2024-10-15,2024-11-22,2024-11-29,2024-11-29,147.0,
+Finance Digital Transformation,42,2,Validate Data Migration approval workflow,Close Automation,Treasury,Daniel Osei,Complete,100,2025-10-10,2025-10-24,2025-10-26,2025-10-26,41.0,
+Finance Digital Transformation,43,2,Reconcile Controls & SOX cutover task,Close Automation,Record to Report,Sean Gallagher,Not Started,0,2025-08-29,2025-09-20,,2026-04-23,48.0,
+Finance Digital Transformation,44,2,Automate Reporting Layer test script,Close Automation,Procure to Pay,Daniel Osei,Complete,100,2026-01-03,2026-01-18,2026-01-20,2026-01-20,8.0,
+Finance Digital Transformation,45,2,Deploy Data Migration reporting extract,Close Automation,Procure to Pay,Marta Kowalski,Not Started,0,2026-03-17,2026-03-25,,2026-04-13,28.0,1
+Finance Digital Transformation,46,2,Automate Reporting Layer interface,Close Automation,Order to Cash,Daniel Osei,Complete,100,2025-11-16,2026-01-12,2026-01-16,2026-01-16,39.0,
+Finance Digital Transformation,47,2,Decommission Close Automation cutover task,Close Automation,Treasury,Priya Nandakumar,Cancelled,0,2026-04-10,2026-06-03,2026-05-23,2026-05-23,40.0,
+Finance Digital Transformation,48,2,Design Controls & SOX cutover task,Close Automation,Procure to Pay,Marta Kowalski,Complete,100,2026-02-26,2026-06-11,2026-05-23,2026-05-23,35.0,1
+Finance Digital Transformation,49,2,Validate Close Automation cutover task,Close Automation,Record to Report,Hiroshi Tanaka,In Progress,69,2025-07-25,2025-08-23,,2026-08-22,13.0,
+Finance Digital Transformation,50,2,Validate Close Automation interface,Close Automation,Procure to Pay,Priya Nandakumar,In Progress,51,2025-09-13,2025-10-16,,2026-08-30,9.0,
+Finance Digital Transformation,51,2,Deploy Reporting Layer audit trail,Close Automation,Treasury,Marta Kowalski,Complete,100,2025-06-25,2025-07-18,2025-07-14,2025-07-14,20.0,
+Finance Digital Transformation,52,2,Document Reporting Layer conversion rule,Close Automation,Treasury,Marta Kowalski,Cancelled,0,2025-10-05,2025-11-15,2025-11-09,2025-11-09,20.0,1
+Finance Digital Transformation,53,1,Reporting Layer,Reporting Layer,Finance,,In Progress,64,2024-09-02,2026-08-31,,2026-09-02,2379.0,
+Finance Digital Transformation,54,2,Document Close Automation master record,Reporting Layer,Order to Cash,Priya Nandakumar,Not Started,0,2026-01-21,2026-03-07,,2026-05-19,49.0,53
+Finance Digital Transformation,55,2,Test Reporting Layer conversion rule,Reporting Layer,Record to Report,Priya Nandakumar,Not Started,0,2025-03-03,2025-04-27,,2026-06-24,52.0,
+Finance Digital Transformation,56,2,Reconcile Reporting Layer audit trail,Reporting Layer,Order to Cash,Priya Nandakumar,Complete,100,2024-11-29,2025-01-17,2025-01-11,2025-01-11,69.0,53
+Finance Digital Transformation,57,2,Design Reporting Layer master record,Reporting Layer,Record to Report,Hiroshi Tanaka,Complete,100,2026-07-01,2026-07-20,2026-07-24,2026-07-24,17.0,53
+Finance Digital Transformation,58,2,Deploy Data Migration user role,Reporting Layer,Procure to Pay,Hiroshi Tanaka,Complete,100,2024-12-12,2025-01-18,2025-01-13,2025-01-13,12.0,
+Finance Digital Transformation,59,2,Design Controls & SOX user role,Reporting Layer,Procure to Pay,Marta Kowalski,In Progress,60,2025-11-27,2025-12-16,,2026-09-02,105.0,
+Finance Digital Transformation,60,2,Integrate Data Migration interface,Reporting Layer,Record to Report,Lucia Ferrari,In Progress,37,2025-08-27,2025-09-08,,2026-08-28,2.0,53
+Finance Digital Transformation,61,2,Reconcile Controls & SOX interface,Reporting Layer,Procure to Pay,Marta Kowalski,On Hold,17,2026-01-21,2026-06-25,,2026-06-29,4.0,
+Finance Digital Transformation,62,2,Document Close Automation training module,Reporting Layer,Record to Report,Priya Nandakumar,Cancelled,0,2024-10-09,2024-11-01,2024-10-26,2024-10-26,10.0,
+Finance Digital Transformation,63,2,Decommission Close Automation data model,Reporting Layer,Procure to Pay,Daniel Osei,Complete,100,2025-10-20,2025-11-12,2025-11-07,2025-11-07,139.0,53
+Finance Digital Transformation,64,2,Document Data Migration cutover task,Reporting Layer,Procure to Pay,Priya Nandakumar,In Progress,28,2025-03-30,2025-04-19,,2026-08-31,12.0,
+Finance Digital Transformation,65,2,Test Reporting Layer batch job,Reporting Layer,Record to Report,Priya Nandakumar,Not Started,0,2025-02-26,2025-03-16,,2026-06-23,23.0,
+Finance Digital Transformation,66,2,Refactor Close Automation conversion rule,Reporting Layer,Procure to Pay,Daniel Osei,Complete,100,2026-01-29,2026-03-13,2026-03-02,2026-03-02,23.0,53
+Finance Digital Transformation,67,2,Refactor Data Migration cutover task,Reporting Layer,Order to Cash,Priya Nandakumar,Complete,100,2025-07-22,2025-09-24,2025-10-01,2025-10-01,32.0,
+Finance Digital Transformation,68,2,Refactor Controls & SOX user role,Reporting Layer,Record to Report,Priya Nandakumar,Complete,100,2024-09-02,2025-01-09,2024-11-09,2024-11-09,30.0,53
+Finance Digital Transformation,69,2,Decommission Data Migration training module,Reporting Layer,Order to Cash,Daniel Osei,In Progress,32,2025-08-08,2025-10-09,,2026-08-18,16.0,
+Finance Digital Transformation,70,2,Design Close Automation reconciliation,Reporting Layer,Record to Report,Hiroshi Tanaka,Not Started,0,2025-08-28,2025-09-14,,2026-08-07,100.0,
+Finance Digital Transformation,71,2,Migrate Reporting Layer data model,Reporting Layer,Order to Cash,Daniel Osei,Complete,100,2026-05-13,2026-05-30,2026-05-26,2026-05-26,104.0,
+Finance Digital Transformation,72,2,Test Close Automation API contract,Reporting Layer,Record to Report,Daniel Osei,Complete,100,2025-11-08,2025-12-02,2025-11-27,2025-11-27,16.0,
+Finance Digital Transformation,73,2,Reconcile Close Automation reporting extract,Reporting Layer,Treasury,Priya Nandakumar,Not Started,0,2025-10-09,2025-11-13,,2026-08-12,8.0,
+Finance Digital Transformation,74,2,Design Reporting Layer master record,Reporting Layer,Order to Cash,Priya Nandakumar,Complete,100,2025-04-05,2025-05-03,2025-05-07,2025-05-07,74.0,
+Finance Digital Transformation,75,2,Document Data Migration batch job,Reporting Layer,Treasury,Daniel Osei,In Progress,33,2025-01-22,2025-05-21,,2026-08-22,141.0,
+Finance Digital Transformation,76,2,Test Data Migration master record,Reporting Layer,Procure to Pay,Daniel Osei,Complete,100,2025-08-23,2025-11-16,2025-10-26,2025-10-26,16.0,
+Finance Digital Transformation,77,2,Refactor Data Migration test script,Reporting Layer,Procure to Pay,Daniel Osei,On Hold,73,2025-01-09,2025-02-03,,2026-07-16,14.0,
+Finance Digital Transformation,78,2,Design Data Migration reporting extract,Reporting Layer,Order to Cash,Daniel Osei,Complete,100,2025-04-10,2025-07-21,2025-07-04,2025-07-04,62.0,
+Finance Digital Transformation,79,2,Test Data Migration dashboard,Reporting Layer,Record to Report,Priya Nandakumar,Complete,100,2024-10-02,2024-12-09,2024-11-26,2024-11-26,34.0,
+Finance Digital Transformation,80,2,Deploy Data Migration training module,Reporting Layer,Treasury,Marta Kowalski,Cancelled,0,2024-12-17,2025-02-07,2025-02-05,2025-02-05,12.0,
+Finance Digital Transformation,81,2,Deploy Data Migration test script,Reporting Layer,Treasury,Daniel Osei,Not Started,0,2026-02-09,2026-04-17,,2026-06-04,21.0,
+Finance Digital Transformation,82,2,Onboard Close Automation approval workflow,Reporting Layer,Record to Report,Priya Nandakumar,Not Started,0,2026-01-24,2026-04-25,,2026-06-15,11.0,53
+Finance Digital Transformation,83,2,Test Data Migration data model,Reporting Layer,Record to Report,Marta Kowalski,Complete,100,2024-10-26,2024-12-04,2024-11-29,2024-11-29,40.0,53
+Finance Digital Transformation,84,2,Build Data Migration approval workflow,Reporting Layer,Order to Cash,Marta Kowalski,Complete,100,2025-11-01,2026-01-19,2025-12-31,2025-12-31,37.0,
+Finance Digital Transformation,85,2,Refactor Reporting Layer data model,Reporting Layer,Procure to Pay,Priya Nandakumar,Complete,100,2026-04-23,2026-05-26,2026-05-17,2026-05-17,11.0,
+Finance Digital Transformation,86,2,Document Close Automation test script,Reporting Layer,Procure to Pay,Priya Nandakumar,In Progress,20,2025-01-13,2025-01-29,,2026-08-19,15.0,53
+Finance Digital Transformation,87,2,Validate Data Migration master record,Reporting Layer,Order to Cash,Priya Nandakumar,Complete,100,2025-09-01,2025-11-16,2025-11-17,2025-11-17,53.0,
+Finance Digital Transformation,88,2,Refactor Reporting Layer user role,Reporting Layer,Procure to Pay,Lucia Ferrari,In Progress,45,2025-02-16,2025-05-01,,2026-08-14,86.0,53
+Finance Digital Transformation,89,2,Configure Reporting Layer user role,Reporting Layer,Record to Report,Daniel Osei,Complete,100,2025-08-30,2025-10-17,2025-10-09,2025-10-09,11.0,53
+Finance Digital Transformation,90,2,Build Close Automation training module,Reporting Layer,Procure to Pay,Lucia Ferrari,Complete,100,2025-03-26,2025-07-19,2025-07-08,2025-07-08,16.0,
+Finance Digital Transformation,91,2,Document Controls & SOX training module,Reporting Layer,Treasury,Priya Nandakumar,Cancelled,0,2026-06-27,2026-07-09,2026-07-07,2026-07-07,9.0,53
+Finance Digital Transformation,92,2,Refactor Controls & SOX master record,Reporting Layer,Order to Cash,Daniel Osei,Complete,100,2024-12-10,2025-01-21,2025-02-03,2025-02-03,16.0,
+Finance Digital Transformation,93,2,Configure Data Migration dashboard,Reporting Layer,Treasury,Hiroshi Tanaka,Complete,100,2025-03-03,2025-05-02,2025-05-05,2025-05-05,28.0,
+Finance Digital Transformation,94,2,Deploy Data Migration API contract,Reporting Layer,Record to Report,Daniel Osei,In Progress,44,2025-02-01,2025-04-01,,2026-08-16,36.0,53
+Finance Digital Transformation,95,2,Design Data Migration reporting extract,Reporting Layer,Order to Cash,Priya Nandakumar,Not Started,0,2025-03-21,2025-04-21,,2026-07-28,75.0,
+Finance Digital Transformation,96,2,Deploy Close Automation conversion rule,Reporting Layer,Record to Report,Priya Nandakumar,In Progress,10,2025-07-18,2025-08-07,,2026-08-29,5.0,
+Finance Digital Transformation,97,2,Design Close Automation reconciliation,Reporting Layer,Procure to Pay,Marta Kowalski,Complete,100,2024-11-07,2024-12-15,2024-12-20,2024-12-20,8.0,
+Finance Digital Transformation,98,2,Design Controls & SOX reconciliation,Reporting Layer,Procure to Pay,Marta Kowalski,Complete,100,2025-06-29,2025-08-19,2025-08-06,2025-08-06,16.0,
+Finance Digital Transformation,99,2,Onboard Controls & SOX training module,Reporting Layer,Treasury,Sean Gallagher,Complete,100,2026-01-26,2026-03-01,2026-02-28,2026-02-28,8.0,
+Finance Digital Transformation,100,2,Validate Close Automation data model,Reporting Layer,Treasury,Priya Nandakumar,Complete,100,2025-08-09,2025-08-28,2025-08-24,2025-08-24,124.0,53
+Finance Digital Transformation,101,2,Test Data Migration reporting extract,Reporting Layer,Record to Report,Priya Nandakumar,Complete,100,2025-05-28,2025-08-01,2025-07-17,2025-07-17,79.0,
+Finance Digital Transformation,102,2,Deploy Reporting Layer test script,Reporting Layer,Treasury,Lucia Ferrari,Cancelled,0,2026-06-03,2026-07-05,2026-07-13,2026-07-13,15.0,
+Finance Digital Transformation,103,2,Design Controls & SOX test script,Reporting Layer,Record to Report,Priya Nandakumar,In Progress,70,2026-01-05,2026-02-02,,2026-08-12,12.0,53
+Finance Digital Transformation,104,2,Onboard Close Automation approval workflow,Reporting Layer,Procure to Pay,Priya Nandakumar,Complete,100,2026-01-20,2026-03-10,2026-03-04,2026-03-04,72.0,
+Finance Digital Transformation,105,2,Validate Data Migration cutover task,Reporting Layer,Treasury,Sean Gallagher,On Hold,50,2025-02-09,2025-04-17,,2026-05-18,103.0,53
+Finance Digital Transformation,106,2,Migrate Close Automation data model,Reporting Layer,Treasury,Priya Nandakumar,Complete,100,2025-11-10,2025-12-11,2025-12-12,2025-12-12,47.0,53
+Finance Digital Transformation,107,2,Design Reporting Layer API contract,Reporting Layer,Treasury,Lucia Ferrari,In Progress,33,2025-07-20,2025-09-17,,2026-08-15,23.0,
+Finance Digital Transformation,108,2,Onboard Data Migration batch job,Reporting Layer,Procure to Pay,Hiroshi Tanaka,Complete,100,2025-08-24,2025-11-09,2025-11-20,2025-11-20,33.0,
+Finance Digital Transformation,109,2,Migrate Controls & SOX API contract,Reporting Layer,Record to Report,Sean Gallagher,Complete,100,2026-05-20,2026-06-13,2026-06-16,2026-06-16,25.0,
+Finance Digital Transformation,110,2,Configure Data Migration user role,Reporting Layer,Order to Cash,Marta Kowalski,Complete,100,2025-12-17,2026-02-25,2026-02-17,2026-02-17,75.0,53
+Finance Digital Transformation,111,2,Build Reporting Layer approval workflow,Reporting Layer,Record to Report,Priya Nandakumar,Not Started,0,2024-09-30,2025-01-31,,2026-05-09,63.0,
+Finance Digital Transformation,112,2,Automate Controls & SOX master record,Reporting Layer,Order to Cash,Amara Okafor,Complete,100,2026-08-21,2026-08-31,2026-09-02,2026-09-02,30.0,
+Finance Digital Transformation,113,1,Controls & SOX,Controls & SOX,Finance,,In Progress,59,2024-09-02,2026-08-29,,2026-09-02,1934.0,
+Finance Digital Transformation,114,2,Validate Data Migration user role,Controls & SOX,Treasury,Amara Okafor,Not Started,0,2024-12-04,2025-01-07,,2026-05-21,13.0,
+Finance Digital Transformation,115,2,Integrate Close Automation test script,Controls & SOX,Order to Cash,Daniel Osei,Complete,100,2025-07-15,2025-08-11,2025-08-19,2025-08-19,7.0,
+Finance Digital Transformation,116,2,Reconcile Data Migration data model,Controls & SOX,Procure to Pay,Priya Nandakumar,In Progress,31,2026-02-03,2026-02-20,,2026-08-31,62.0,
+Finance Digital Transformation,117,2,Migrate Controls & SOX API contract,Controls & SOX,Treasury,Priya Nandakumar,Complete,100,2025-03-21,2025-04-24,2025-05-01,2025-05-01,12.0,
+Finance Digital Transformation,118,2,Validate Controls & SOX approval workflow,Controls & SOX,Procure to Pay,Priya Nandakumar,Not Started,0,2026-01-24,2026-02-15,,2026-07-08,21.0,113
+Finance Digital Transformation,119,2,Deploy Controls & SOX API contract,Controls & SOX,Procure to Pay,Amara Okafor,Complete,100,2025-03-20,2025-04-15,2025-04-14,2025-04-14,29.0,
+Finance Digital Transformation,120,2,Refactor Controls & SOX data model,Controls & SOX,Order to Cash,Lucia Ferrari,Cancelled,0,2025-04-23,2025-05-03,2025-05-03,2025-05-03,101.0,
+Finance Digital Transformation,121,2,Build Controls & SOX API contract,Controls & SOX,Order to Cash,Marta Kowalski,Not Started,0,2025-01-09,2025-02-02,,2026-07-07,46.0,
+Finance Digital Transformation,122,2,Decommission Data Migration reconciliation,Controls & SOX,Order to Cash,Daniel Osei,In Progress,18,2025-11-27,2025-12-19,,2026-08-30,8.0,113
+Finance Digital Transformation,123,2,Reconcile Data Migration interface,Controls & SOX,Order to Cash,Hiroshi Tanaka,Complete,100,2025-06-09,2025-07-24,2025-07-15,2025-07-15,47.0,
+Finance Digital Transformation,124,2,Onboard Controls & SOX API contract,Controls & SOX,Procure to Pay,Amara Okafor,Complete,100,2025-02-18,2025-03-01,2025-03-03,2025-03-03,18.0,
+Finance Digital Transformation,125,2,Automate Data Migration API contract,Controls & SOX,Treasury,Priya Nandakumar,Complete,100,2025-05-03,2025-08-15,2025-08-30,2025-08-30,27.0,
+Finance Digital Transformation,126,2,Integrate Reporting Layer data model,Controls & SOX,Procure to Pay,Hiroshi Tanaka,Complete,100,2025-10-03,2025-10-27,2025-11-02,2025-11-02,8.0,
+Finance Digital Transformation,127,2,Automate Controls & SOX user role,Controls & SOX,Procure to Pay,Hiroshi Tanaka,Not Started,0,2025-04-24,2025-06-16,,2026-07-05,6.0,113
+Finance Digital Transformation,128,2,Design Controls & SOX test script,Controls & SOX,Treasury,Priya Nandakumar,On Hold,34,2025-05-03,2025-06-22,,2026-08-14,85.0,
+Finance Digital Transformation,129,2,Document Reporting Layer conversion rule,Controls & SOX,Order to Cash,Priya Nandakumar,Complete,100,2025-07-01,2025-08-01,2025-07-31,2025-07-31,13.0,
+Finance Digital Transformation,130,2,Integrate Close Automation audit trail,Controls & SOX,Order to Cash,Lucia Ferrari,In Progress,78,2025-07-23,2025-09-05,,2026-08-30,23.0,
+Finance Digital Transformation,131,2,Configure Controls & SOX conversion rule,Controls & SOX,Procure to Pay,Hiroshi Tanaka,Complete,100,2025-07-31,2025-10-05,2025-09-20,2025-09-20,27.0,113
+Finance Digital Transformation,132,2,Migrate Data Migration batch job,Controls & SOX,Record to Report,Lucia Ferrari,Not Started,0,2025-06-25,2025-08-14,,2026-06-30,12.0,
+Finance Digital Transformation,133,2,Validate Reporting Layer data model,Controls & SOX,Record to Report,Hiroshi Tanaka,In Progress,48,2025-01-10,2025-02-19,,2026-08-12,83.0,113
+Finance Digital Transformation,134,2,Validate Reporting Layer cutover task,Controls & SOX,Record to Report,Amara Okafor,Complete,100,2024-11-27,2025-01-11,2025-01-17,2025-01-17,206.0,
+Finance Digital Transformation,135,2,Test Data Migration audit trail,Controls & SOX,Procure to Pay,Amara Okafor,Complete,100,2024-09-02,2024-10-05,2024-10-08,2024-10-08,16.0,
+Finance Digital Transformation,136,2,Document Close Automation reconciliation,Controls & SOX,Order to Cash,Lucia Ferrari,Complete,100,2025-01-11,2025-01-25,2025-01-24,2025-01-24,19.0,
+Finance Digital Transformation,137,2,Design Data Migration interface,Controls & SOX,Record to Report,Daniel Osei,In Progress,11,2025-07-01,2025-08-07,,2026-09-02,27.0,113
+Finance Digital Transformation,138,2,Automate Data Migration audit trail,Controls & SOX,Procure to Pay,Lucia Ferrari,Complete,100,2025-07-08,2025-08-18,2025-08-27,2025-08-27,93.0,
+Finance Digital Transformation,139,2,Deploy Reporting Layer reporting extract,Controls & SOX,Record to Report,Priya Nandakumar,Complete,100,2025-02-02,2025-03-13,2025-03-13,2025-03-13,47.0,
+Finance Digital Transformation,140,2,Document Close Automation audit trail,Controls & SOX,Order to Cash,Priya Nandakumar,Cancelled,0,2025-03-30,2025-04-29,2025-04-24,2025-04-24,7.0,
+Finance Digital Transformation,141,2,Deploy Data Migration user role,Controls & SOX,Treasury,Priya Nandakumar,On Hold,33,2025-10-01,2025-10-17,,2026-08-14,31.0,
+Finance Digital Transformation,142,2,Test Controls & SOX training module,Controls & SOX,Procure to Pay,Daniel Osei,Complete,100,2025-12-31,2026-01-17,2026-01-15,2026-01-15,27.0,
+Finance Digital Transformation,143,2,Reconcile Data Migration conversion rule,Controls & SOX,Record to Report,Lucia Ferrari,Not Started,0,2025-09-21,2026-01-09,,2026-06-28,75.0,113
+Finance Digital Transformation,144,2,Reconcile Data Migration test script,Controls & SOX,Order to Cash,Lucia Ferrari,Complete,100,2026-05-17,2026-07-12,2026-07-02,2026-07-02,38.0,
+Finance Digital Transformation,145,2,Build Close Automation batch job,Controls & SOX,Record to Report,Lucia Ferrari,Complete,100,2024-11-10,2025-03-02,2025-02-12,2025-02-12,18.0,
+Finance Digital Transformation,146,2,Migrate Reporting Layer batch job,Controls & SOX,Record to Report,Priya Nandakumar,Complete,100,2026-07-18,2026-08-29,2026-08-22,2026-08-22,11.0,
+Finance Digital Transformation,147,2,Validate Close Automation test script,Controls & SOX,Order to Cash,Hiroshi Tanaka,Complete,100,2026-01-08,2026-04-03,2026-03-20,2026-03-20,6.0,
+Finance Digital Transformation,148,2,Build Reporting Layer batch job,Controls & SOX,Treasury,Priya Nandakumar,Not Started,0,2025-03-29,2025-07-09,,2026-07-17,11.0,
+Finance Digital Transformation,149,2,Onboard Close Automation user role,Controls & SOX,Record to Report,Hiroshi Tanaka,Complete,100,2026-03-10,2026-04-08,2026-04-03,2026-04-03,24.0,113
+Finance Digital Transformation,150,2,Decommission Data Migration user role,Controls & SOX,Record to Report,Daniel Osei,In Progress,81,2025-09-15,2025-12-26,,2026-08-14,9.0,
+Finance Digital Transformation,151,2,Validate Reporting Layer cutover task,Controls & SOX,Order to Cash,Marta Kowalski,Cancelled,0,2024-11-11,2025-04-27,2025-04-21,2025-04-21,47.0,113
+Finance Digital Transformation,152,2,Migrate Data Migration approval workflow,Controls & SOX,Record to Report,Daniel Osei,Complete,100,2024-11-28,2025-01-04,2024-12-27,2024-12-27,57.0,
+Finance Digital Transformation,153,2,Document Controls & SOX user role,Controls & SOX,Treasury,Priya Nandakumar,Not Started,0,2026-02-13,2026-04-04,,2026-08-19,73.0,
+Finance Digital Transformation,154,2,Reconcile Reporting Layer cutover task,Controls & SOX,Treasury,Priya Nandakumar,Not Started,0,2024-10-10,2024-12-31,,2026-06-26,13.0,113
+Finance Digital Transformation,155,2,Document Data Migration batch job,Controls & SOX,Order to Cash,Priya Nandakumar,Complete,100,2025-08-27,2025-09-11,2025-09-10,2025-09-10,56.0,
+Finance Digital Transformation,156,2,Test Close Automation training module,Controls & SOX,Treasury,Priya Nandakumar,Cancelled,0,2026-02-18,2026-04-09,2026-04-12,2026-04-12,13.0,113
+Finance Digital Transformation,157,2,Deploy Controls & SOX conversion rule,Controls & SOX,Treasury,Priya Nandakumar,On Hold,45,2026-05-19,2026-07-26,,2026-06-15,62.0,113
+Finance Digital Transformation,158,2,Decommission Controls & SOX data model,Controls & SOX,Record to Report,Amara Okafor,Not Started,0,2025-07-27,2025-09-12,,2026-08-07,23.0,
+Finance Digital Transformation,159,2,Integrate Controls & SOX conversion rule,Controls & SOX,Treasury,Daniel Osei,Not Started,0,2025-02-28,2025-05-03,,2026-03-09,7.0,
+Finance Digital Transformation,160,2,Configure Data Migration data model,Controls & SOX,Treasury,Marta Kowalski,Complete,100,2026-04-21,2026-05-27,2026-05-27,2026-05-27,13.0,
+Finance Digital Transformation,161,2,Document Close Automation dashboard,Controls & SOX,Procure to Pay,Priya Nandakumar,In Progress,65,2025-11-26,2025-12-09,,2026-08-06,32.0,
+Finance Digital Transformation,162,2,Build Close Automation reconciliation,Controls & SOX,Order to Cash,Hiroshi Tanaka,Complete,100,2025-05-27,2025-07-13,2025-07-07,2025-07-07,44.0,113
+Finance Digital Transformation,163,2,Configure Close Automation dashboard,Controls & SOX,Procure to Pay,Priya Nandakumar,On Hold,73,2026-01-10,2026-01-28,,2026-05-08,39.0,
+Finance Digital Transformation,164,2,Build Controls & SOX audit trail,Controls & SOX,Record to Report,Priya Nandakumar,On Hold,79,2025-12-13,2026-01-22,,2026-07-03,142.0,113
+Finance Digital Transformation,165,1,Data Migration,Data Migration,Finance,,In Progress,54,2024-09-02,2026-08-28,,2026-09-02,2417.0,
+Finance Digital Transformation,166,2,Validate Controls & SOX reconciliation,Data Migration,Procure to Pay,Hiroshi Tanaka,Cancelled,0,2026-03-11,2026-04-13,2026-04-05,2026-04-05,18.0,165
+Finance Digital Transformation,167,2,Configure Controls & SOX approval workflow,Data Migration,Record to Report,Marta Kowalski,Not Started,0,2026-01-22,2026-02-24,,2026-05-03,12.0,
+Finance Digital Transformation,168,2,Document Close Automation reporting extract,Data Migration,Order to Cash,Hiroshi Tanaka,Cancelled,0,2025-09-28,2025-11-21,2025-11-11,2025-11-11,2.0,165
+Finance Digital Transformation,169,2,Build Data Migration dashboard,Data Migration,Order to Cash,Lucia Ferrari,Complete,100,2025-06-15,2025-07-08,2025-07-12,2025-07-12,75.0,165
+Finance Digital Transformation,170,2,Build Reporting Layer reconciliation,Data Migration,Order to Cash,Amara Okafor,In Progress,32,2024-10-06,2025-01-21,,2026-08-08,18.0,
+Finance Digital Transformation,171,2,Test Controls & SOX interface,Data Migration,Order to Cash,Priya Nandakumar,Complete,100,2025-09-10,2026-01-21,2025-12-30,2025-12-30,32.0,165
+Finance Digital Transformation,172,2,Integrate Close Automation reporting extract,Data Migration,Record to Report,Marta Kowalski,Not Started,0,2025-10-02,2025-11-15,,2026-02-18,149.0,165
+Finance Digital Transformation,173,2,Migrate Controls & SOX user role,Data Migration,Procure to Pay,Marta Kowalski,Complete,100,2025-08-24,2025-10-01,2025-09-26,2025-09-26,61.0,
+Finance Digital Transformation,174,2,Validate Reporting Layer interface,Data Migration,Procure to Pay,Lucia Ferrari,In Progress,76,2025-01-27,2025-03-25,,2026-08-30,21.0,165
+Finance Digital Transformation,175,2,Deploy Controls & SOX batch job,Data Migration,Procure to Pay,Hiroshi Tanaka,On Hold,51,2025-09-23,2025-10-25,,2026-07-15,14.0,
+Finance Digital Transformation,176,2,Validate Data Migration cutover task,Data Migration,Record to Report,Daniel Osei,Not Started,0,2025-02-24,2025-04-04,,2026-08-17,190.0,
+Finance Digital Transformation,177,2,Validate Reporting Layer approval workflow,Data Migration,Procure to Pay,Hiroshi Tanaka,Complete,100,2026-04-10,2026-05-17,2026-05-15,2026-05-15,20.0,
+Finance Digital Transformation,178,2,Onboard Data Migration interface,Data Migration,Order to Cash,Amara Okafor,In Progress,45,2025-07-17,2025-08-15,,2026-08-26,29.0,165
+Finance Digital Transformation,179,2,Build Data Migration conversion rule,Data Migration,Treasury,Daniel Osei,Complete,100,2024-11-26,2024-12-24,2024-12-24,2024-12-24,12.0,165
+Finance Digital Transformation,180,2,Decommission Reporting Layer reporting extract,Data Migration,Treasury,Daniel Osei,Not Started,0,2025-02-14,2025-02-24,,2026-07-08,6.0,
+Finance Digital Transformation,181,2,Refactor Controls & SOX audit trail,Data Migration,Procure to Pay,Daniel Osei,In Progress,52,2025-04-15,2025-05-14,,2026-08-16,19.0,165
+Finance Digital Transformation,182,2,Decommission Close Automation reconciliation,Data Migration,Procure to Pay,Daniel Osei,Not Started,0,2024-11-05,2025-01-02,,2026-08-24,4.0,
+Finance Digital Transformation,183,2,Automate Data Migration API contract,Data Migration,Record to Report,Amara Okafor,Complete,100,2025-09-05,2025-10-03,2025-10-05,2025-10-05,62.0,165
+Finance Digital Transformation,184,2,Design Close Automation conversion rule,Data Migration,Procure to Pay,Hiroshi Tanaka,Complete,100,2024-12-10,2025-02-04,2025-01-25,2025-01-25,47.0,
+Finance Digital Transformation,185,2,Document Close Automation test script,Data Migration,Procure to Pay,Amara Okafor,In Progress,32,2025-07-23,2025-08-10,,2026-08-28,17.0,
+Finance Digital Transformation,186,2,Build Reporting Layer approval workflow,Data Migration,Order to Cash,Marta Kowalski,Complete,100,2026-07-22,2026-08-28,2026-08-28,2026-08-28,58.0,
+Finance Digital Transformation,187,2,Build Controls & SOX user role,Data Migration,Order to Cash,Daniel Osei,In Progress,47,2025-06-13,2025-10-24,,2026-08-14,4.0,165
+Finance Digital Transformation,188,2,Onboard Close Automation approval workflow,Data Migration,Record to Report,Marta Kowalski,Complete,100,2025-05-15,2025-07-27,2025-08-02,2025-08-02,8.0,
+Finance Digital Transformation,189,2,Reconcile Controls & SOX API contract,Data Migration,Procure to Pay,Priya Nandakumar,Complete,100,2024-09-25,2025-01-03,2025-01-15,2025-01-15,34.0,165
+Finance Digital Transformation,190,2,Reconcile Close Automation data model,Data Migration,Record to Report,Priya Nandakumar,On Hold,34,2025-07-02,2025-08-06,,2026-08-05,24.0,165
+Finance Digital Transformation,191,2,Automate Data Migration interface,Data Migration,Record to Report,Daniel Osei,Complete,100,2025-07-13,2025-09-25,2025-09-12,2025-09-12,22.0,
+Finance Digital Transformation,192,2,Refactor Controls & SOX reconciliation,Data Migration,Procure to Pay,Marta Kowalski,In Progress,51,2026-01-23,2026-03-11,,2026-08-17,22.0,165
+Finance Digital Transformation,193,2,Configure Controls & SOX master record,Data Migration,Order to Cash,Priya Nandakumar,Not Started,0,2025-05-08,2025-06-03,,2026-04-05,22.0,
+Finance Digital Transformation,194,2,Integrate Close Automation user role,Data Migration,Procure to Pay,Lucia Ferrari,In Progress,34,2025-12-11,2026-01-19,,2026-08-07,29.0,
+Finance Digital Transformation,195,2,Design Controls & SOX master record,Data Migration,Treasury,Marta Kowalski,In Progress,81,2026-06-17,2026-07-10,,2026-08-20,17.0,
+Finance Digital Transformation,196,2,Configure Controls & SOX conversion rule,Data Migration,Treasury,Marta Kowalski,Complete,100,2025-08-26,2025-09-18,2025-09-21,2025-09-21,37.0,165
+Finance Digital Transformation,197,2,Refactor Data Migration interface,Data Migration,Order to Cash,Priya Nandakumar,Complete,100,2025-05-19,2025-05-31,2025-05-28,2025-05-28,59.0,
+Finance Digital Transformation,198,2,Onboard Data Migration approval workflow,Data Migration,Record to Report,Hiroshi Tanaka,In Progress,57,2025-08-14,2025-08-27,,2026-09-01,13.0,165
+Finance Digital Transformation,199,2,Configure Controls & SOX data model,Data Migration,Order to Cash,Priya Nandakumar,Cancelled,0,2024-09-02,2024-10-24,2024-10-18,2024-10-18,69.0,
+Finance Digital Transformation,200,2,Migrate Data Migration master record,Data Migration,Procure to Pay,Sean Gallagher,In Progress,20,2025-09-13,2025-11-19,,2026-09-02,29.0,165
+Finance Digital Transformation,201,2,Validate Controls & SOX user role,Data Migration,Treasury,Marta Kowalski,Not Started,0,2025-01-13,2025-02-03,,2026-02-22,222.0,
+Finance Digital Transformation,202,2,Decommission Reporting Layer user role,Data Migration,Record to Report,Priya Nandakumar,In Progress,16,2025-11-18,2026-02-20,,2026-08-17,18.0,165
+Finance Digital Transformation,203,2,Configure Controls & SOX reporting extract,Data Migration,Procure to Pay,Marta Kowalski,In Progress,19,2025-07-25,2025-08-28,,2026-08-21,24.0,
+Finance Digital Transformation,204,2,Refactor Reporting Layer conversion rule,Data Migration,Order to Cash,Hiroshi Tanaka,Cancelled,0,2025-03-01,2025-04-13,2025-04-14,2025-04-14,30.0,
+Finance Digital Transformation,205,2,Validate Close Automation cutover task,Data Migration,Order to Cash,Sean Gallagher,Complete,100,2025-11-06,2025-12-07,2025-12-11,2025-12-11,52.0,165
+Finance Digital Transformation,206,2,Deploy Controls & SOX master record,Data Migration,Procure to Pay,Priya Nandakumar,In Progress,64,2025-03-25,2025-05-25,,2026-08-15,29.0,
+Finance Digital Transformation,207,2,Decommission Reporting Layer user role,Data Migration,Treasury,Marta Kowalski,Not Started,0,2026-04-11,2026-06-27,,2026-04-11,15.0,
+Finance Digital Transformation,208,2,Configure Data Migration batch job,Data Migration,Procure to Pay,Hiroshi Tanaka,Complete,100,2026-03-01,2026-03-13,2026-03-12,2026-03-12,11.0,
+Finance Digital Transformation,209,2,Document Reporting Layer audit trail,Data Migration,Record to Report,Daniel Osei,In Progress,80,2025-08-28,2025-11-25,,2026-08-13,28.0,165
+Finance Digital Transformation,210,2,Deploy Data Migration data model,Data Migration,Order to Cash,Amara Okafor,Complete,100,2026-04-08,2026-04-15,2026-04-17,2026-04-17,10.0,165
+Finance Digital Transformation,211,2,Automate Controls & SOX data model,Data Migration,Record to Report,Priya Nandakumar,Not Started,0,2026-01-23,2026-02-26,,2026-06-14,25.0,
+Finance Digital Transformation,212,2,Build Controls & SOX approval workflow,Data Migration,Procure to Pay,Sean Gallagher,In Progress,15,2025-12-21,2026-03-07,,2026-08-24,47.0,165
+Finance Digital Transformation,213,2,Integrate Controls & SOX conversion rule,Data Migration,Procure to Pay,Marta Kowalski,Complete,100,2025-12-06,2026-01-23,2026-01-18,2026-01-18,27.0,
+Finance Digital Transformation,214,2,Configure Close Automation data model,Data Migration,Record to Report,Priya Nandakumar,Complete,100,2026-04-28,2026-06-10,2026-06-01,2026-06-01,30.0,
+Finance Digital Transformation,215,2,Configure Data Migration cutover task,Data Migration,Order to Cash,Amara Okafor,Complete,100,2024-10-05,2024-11-09,2024-11-04,2024-11-04,48.0,
+Finance Digital Transformation,216,2,Validate Controls & SOX API contract,Data Migration,Treasury,Lucia Ferrari,Cancelled,0,2025-01-21,2025-03-15,2025-03-15,2025-03-15,31.0,
+Finance Digital Transformation,217,2,Build Close Automation interface,Data Migration,Procure to Pay,Priya Nandakumar,Not Started,0,2026-02-16,2026-04-11,,2026-05-27,21.0,
+Finance Digital Transformation,218,2,Onboard Reporting Layer API contract,Data Migration,Procure to Pay,Marta Kowalski,Complete,100,2025-09-16,2025-09-30,2025-09-27,2025-09-27,11.0,165
+Finance Digital Transformation,219,2,Reconcile Controls & SOX conversion rule,Data Migration,Procure to Pay,Priya Nandakumar,Complete,100,2026-05-28,2026-06-28,2026-06-22,2026-06-22,45.0,
+Finance Digital Transformation,220,2,Design Controls & SOX test script,Data Migration,Procure to Pay,Hiroshi Tanaka,Not Started,0,2025-12-01,2026-01-07,,2026-02-17,30.0,165
+Finance Digital Transformation,221,2,Integrate Reporting Layer user role,Data Migration,Record to Report,Amara Okafor,Complete,100,2025-03-23,2025-04-26,2025-04-29,2025-04-29,12.0,
+Finance Digital Transformation,222,2,Integrate Data Migration approval workflow,Data Migration,Procure to Pay,Marta Kowalski,In Progress,20,2025-05-16,2025-06-02,,2026-08-13,14.0,165
+Finance Digital Transformation,223,2,Decommission Reporting Layer training module,Data Migration,Treasury,Priya Nandakumar,On Hold,70,2025-02-14,2025-03-06,,2026-06-08,15.0,
+Finance Digital Transformation,224,2,Integrate Data Migration API contract,Data Migration,Treasury,Priya Nandakumar,Complete,100,2024-11-15,2025-01-13,2025-01-05,2025-01-05,367.0,
+M&A,225,1,Day 1 Readiness,Day 1 Readiness,Corporate Development,,In Progress,28,2026-03-02,2027-01-27,,2026-09-03,1027.0,
+M&A,226,2,Configure Day 1 Readiness batch job,Day 1 Readiness,Divestiture,Marta Kowalski,Complete,100,2026-03-27,2026-04-27,2026-04-27,2026-04-27,7.0,
+M&A,227,2,Decommission Systems Integration user role,Day 1 Readiness,Divestiture,Priya Nandakumar,Not Started,0,2026-06-23,2026-08-19,,2026-06-23,26.0,225
+M&A,228,2,Integrate TSA Exit batch job,Day 1 Readiness,Integration,Marta Kowalski,In Progress,15,2026-04-16,2026-05-26,,2026-09-02,35.0,
+M&A,229,2,Validate Day 1 Readiness cutover task,Day 1 Readiness,Integration,Daniel Osei,Complete,100,2026-03-02,2026-06-30,2026-05-09,2026-05-09,19.0,
+M&A,230,2,Automate Day 1 Readiness approval workflow,Day 1 Readiness,Integration,Amara Okafor,Not Started,0,2026-06-16,2026-08-07,,2026-06-16,99.0,225
+M&A,231,2,Test Day 1 Readiness API contract,Day 1 Readiness,Divestiture,Marta Kowalski,Not Started,0,2026-03-14,2026-05-01,,2026-08-10,19.0,
+M&A,232,2,Refactor Day 1 Readiness reconciliation,Day 1 Readiness,Divestiture,Priya Nandakumar,Not Started,0,2026-05-08,2026-07-07,,2026-07-13,39.0,
+M&A,233,2,Configure Systems Integration approval workflow,Day 1 Readiness,Divestiture,Marta Kowalski,In Progress,48,2026-06-13,2026-08-07,,2026-08-13,20.0,
+M&A,234,2,Onboard Day 1 Readiness reporting extract,Day 1 Readiness,Divestiture,Amara Okafor,Complete,100,2026-05-24,2026-06-10,2026-06-12,2026-06-12,83.0,
+M&A,235,2,Refactor Day 1 Readiness approval workflow,Day 1 Readiness,Divestiture,Amara Okafor,Not Started,0,2026-07-21,2026-08-30,,2026-07-21,36.0,
+M&A,236,2,Configure Day 1 Readiness conversion rule,Day 1 Readiness,Divestiture,Marta Kowalski,On Hold,39,2026-04-24,2026-05-16,,2026-07-21,14.0,
+M&A,237,2,Build Day 1 Readiness master record,Day 1 Readiness,Playbook,Priya Nandakumar,Not Started,0,2026-03-07,2026-08-04,,2026-08-17,80.0,
+M&A,238,2,Test Day 1 Readiness approval workflow,Day 1 Readiness,Divestiture,Daniel Osei,Cancelled,0,2026-06-16,2026-07-07,2026-07-13,2026-07-13,3.0,
+M&A,239,2,Onboard Systems Integration API contract,Day 1 Readiness,Divestiture,Priya Nandakumar,In Progress,29,2026-05-17,2026-06-29,,2026-08-15,20.0,
+M&A,240,2,Onboard TSA Exit training module,Day 1 Readiness,Integration,Marta Kowalski,In Progress,40,2026-03-27,2026-04-23,,2026-09-03,113.0,225
+M&A,241,2,Validate Systems Integration reporting extract,Day 1 Readiness,Integration,Priya Nandakumar,Not Started,0,2026-05-09,2026-06-04,,2026-06-11,49.0,225
+M&A,242,2,Deploy Systems Integration user role,Day 1 Readiness,Integration,Priya Nandakumar,Cancelled,0,2026-06-15,2026-07-08,2026-07-12,2026-07-12,9.0,
+M&A,243,2,Document Day 1 Readiness data model,Day 1 Readiness,Integration,Priya Nandakumar,In Progress,27,2026-06-28,2026-09-03,,2026-08-20,28.0,225
+M&A,244,2,Validate Systems Integration API contract,Day 1 Readiness,Divestiture,Amara Okafor,Not Started,0,2026-08-09,2027-01-27,,2026-08-09,29.0,225
+M&A,245,2,Refactor Day 1 Readiness reporting extract,Day 1 Readiness,Divestiture,Priya Nandakumar,Not Started,0,2026-05-22,2026-06-02,,2026-05-22,17.0,
+M&A,246,2,Onboard TSA Exit audit trail,Day 1 Readiness,Playbook,Priya Nandakumar,Complete,100,2026-04-29,2026-06-16,2026-06-16,2026-06-16,41.0,
+M&A,247,2,Build Systems Integration cutover task,Day 1 Readiness,Divestiture,Marta Kowalski,Not Started,0,2026-05-17,2026-05-24,,2026-06-09,39.0,
+M&A,248,2,Onboard TSA Exit interface,Day 1 Readiness,Divestiture,Priya Nandakumar,Cancelled,0,2026-03-08,2026-04-11,2026-04-05,2026-04-05,162.0,225
+M&A,249,2,Design Systems Integration audit trail,Day 1 Readiness,Playbook,Daniel Osei,Not Started,0,2026-06-17,2026-09-06,,2026-08-02,16.0,
+M&A,250,2,Refactor Systems Integration interface,Day 1 Readiness,Divestiture,Hiroshi Tanaka,In Progress,75,2026-06-05,2026-08-16,,2026-08-14,20.0,
+M&A,251,2,Test Day 1 Readiness dashboard,Day 1 Readiness,Playbook,Priya Nandakumar,In Progress,60,2026-08-14,2026-11-16,,2026-08-30,4.0,
+M&A,252,1,Systems Integration,Systems Integration,Corporate Development,,In Progress,34,2026-03-02,2026-11-08,,2026-09-03,1025.0,
+M&A,253,2,Onboard Systems Integration reconciliation,Systems Integration,Integration,Daniel Osei,Not Started,0,2026-04-06,2026-05-16,,2026-04-06,30.0,
+M&A,254,2,Reconcile Day 1 Readiness audit trail,Systems Integration,Playbook,Hiroshi Tanaka,Not Started,0,2026-06-22,2026-09-05,,2026-06-22,30.0,
+M&A,255,2,Configure TSA Exit API contract,Systems Integration,Integration,Priya Nandakumar,Complete,100,2026-03-02,2026-07-26,2026-06-02,2026-06-02,8.0,252
+M&A,256,2,Decommission TSA Exit master record,Systems Integration,Playbook,Marta Kowalski,Complete,100,2026-07-02,2026-07-28,2026-07-30,2026-07-30,162.0,
+M&A,257,2,Test Day 1 Readiness dashboard,Systems Integration,Divestiture,Priya Nandakumar,Complete,100,2026-03-02,2026-05-16,2026-03-31,2026-03-31,18.0,
+M&A,258,2,Automate TSA Exit data model,Systems Integration,Divestiture,Daniel Osei,Complete,100,2026-04-03,2026-08-17,2026-07-12,2026-07-12,51.0,252
+M&A,259,2,Document Systems Integration reconciliation,Systems Integration,Integration,Amara Okafor,In Progress,50,2026-05-14,2026-07-15,,2026-08-14,87.0,
+M&A,260,2,Migrate TSA Exit batch job,Systems Integration,Integration,Priya Nandakumar,In Progress,78,2026-05-28,2026-11-08,,2026-08-20,21.0,252
+M&A,261,2,Deploy TSA Exit data model,Systems Integration,Integration,Priya Nandakumar,In Progress,19,2026-04-11,2026-06-23,,2026-08-27,12.0,252
+M&A,262,2,Onboard Day 1 Readiness batch job,Systems Integration,Divestiture,Marta Kowalski,In Progress,38,2026-05-14,2026-06-21,,2026-08-07,333.0,
+M&A,263,2,Integrate Day 1 Readiness master record,Systems Integration,Divestiture,Hiroshi Tanaka,Not Started,0,2026-03-28,2026-04-28,,2026-08-13,7.0,
+M&A,264,2,Onboard TSA Exit dashboard,Systems Integration,Integration,Daniel Osei,Not Started,0,2026-04-21,2026-05-16,,2026-06-13,7.0,
+M&A,265,2,Onboard Systems Integration data model,Systems Integration,Playbook,Priya Nandakumar,Not Started,0,2026-06-21,2026-08-08,,2026-08-28,13.0,
+M&A,266,2,Migrate TSA Exit approval workflow,Systems Integration,Integration,Amara Okafor,Not Started,0,2026-07-18,2026-08-04,,2026-07-18,12.0,252
+M&A,267,2,Automate Day 1 Readiness master record,Systems Integration,Divestiture,Daniel Osei,In Progress,36,2026-05-08,2026-06-01,,2026-08-09,12.0,252
+M&A,268,2,Decommission Day 1 Readiness cutover task,Systems Integration,Integration,Daniel Osei,In Progress,14,2026-06-01,2026-06-27,,2026-08-19,136.0,
+M&A,269,2,Design Systems Integration dashboard,Systems Integration,Divestiture,Amara Okafor,Cancelled,0,2026-05-01,2026-07-26,2026-08-14,2026-08-14,41.0,252
+M&A,270,2,Automate Day 1 Readiness reconciliation,Systems Integration,Divestiture,Priya Nandakumar,Cancelled,0,2026-05-25,2026-06-25,2026-06-29,2026-06-29,11.0,
+M&A,271,2,Test Systems Integration approval workflow,Systems Integration,Playbook,Hiroshi Tanaka,In Progress,12,2026-03-30,2026-05-03,,2026-09-03,34.0,
+M&A,272,1,TSA Exit,TSA Exit,Corporate Development,,In Progress,26,2026-03-02,2026-10-02,,2026-08-27,1354.0,
+M&A,273,2,Design TSA Exit user role,TSA Exit,Divestiture,Priya Nandakumar,Complete,100,2026-03-30,2026-04-19,2026-04-17,2026-04-17,18.0,
+M&A,274,2,Deploy TSA Exit dashboard,TSA Exit,Divestiture,Priya Nandakumar,Complete,100,2026-03-02,2026-05-26,2026-03-13,2026-03-13,19.0,
+M&A,275,2,Deploy TSA Exit reconciliation,TSA Exit,Playbook,Priya Nandakumar,On Hold,55,2026-06-22,2026-07-22,,2026-07-15,30.0,272
+M&A,276,2,Configure TSA Exit dashboard,TSA Exit,Playbook,Marta Kowalski,Not Started,0,2026-04-29,2026-06-17,,2026-04-29,35.0,
+M&A,277,2,Reconcile Day 1 Readiness interface,TSA Exit,Divestiture,Priya Nandakumar,Cancelled,0,2026-03-12,2026-04-12,2026-04-05,2026-04-05,53.0,272
+M&A,278,2,Decommission Systems Integration training module,TSA Exit,Divestiture,Priya Nandakumar,In Progress,26,2026-05-09,2026-07-01,,2026-08-22,67.0,
+M&A,279,2,Build TSA Exit audit trail,TSA Exit,Playbook,Amara Okafor,Cancelled,0,2026-04-28,2026-06-01,2026-06-07,2026-06-07,71.0,272
+M&A,280,2,Automate Day 1 Readiness dashboard,TSA Exit,Playbook,Priya Nandakumar,Complete,100,2026-06-07,2026-06-20,2026-06-20,2026-06-20,201.0,272
+M&A,281,2,Automate Systems Integration data model,TSA Exit,Playbook,Priya Nandakumar,Not Started,0,2026-07-10,2026-08-17,,2026-07-10,48.0,272
+M&A,282,2,Integrate Day 1 Readiness interface,TSA Exit,Integration,Hiroshi Tanaka,In Progress,26,2026-04-12,2026-06-26,,2026-08-07,9.0,
+M&A,283,2,Decommission Day 1 Readiness approval workflow,TSA Exit,Integration,Priya Nandakumar,Complete,100,2026-05-13,2026-06-15,2026-06-07,2026-06-07,20.0,
+M&A,284,2,Onboard TSA Exit reporting extract,TSA Exit,Divestiture,Hiroshi Tanaka,Not Started,0,2026-04-01,2026-07-22,,2026-06-27,40.0,
+M&A,285,2,Deploy TSA Exit training module,TSA Exit,Integration,Marta Kowalski,In Progress,73,2026-05-30,2026-08-09,,2026-08-27,18.0,
+M&A,286,2,Validate TSA Exit user role,TSA Exit,Integration,Priya Nandakumar,Not Started,0,2026-07-22,2026-09-17,,2026-07-22,28.0,
+M&A,287,2,Decommission TSA Exit reconciliation,TSA Exit,Playbook,Daniel Osei,Cancelled,0,2026-03-14,2026-03-28,2026-03-30,2026-03-30,31.0,272
+M&A,288,2,Test Systems Integration API contract,TSA Exit,Divestiture,Priya Nandakumar,Cancelled,0,2026-04-03,2026-05-09,2026-05-06,2026-05-06,26.0,
+M&A,289,2,Automate Day 1 Readiness API contract,TSA Exit,Playbook,Priya Nandakumar,Not Started,0,2026-04-19,2026-09-25,,2026-04-19,22.0,
+M&A,290,2,Migrate TSA Exit audit trail,TSA Exit,Integration,Daniel Osei,Cancelled,0,2026-03-02,2026-04-25,2026-03-24,2026-03-24,53.0,
+M&A,291,2,Build Systems Integration reporting extract,TSA Exit,Divestiture,Amara Okafor,In Progress,59,2026-07-23,2026-09-26,,2026-08-20,22.0,272
+M&A,292,2,Onboard TSA Exit data model,TSA Exit,Integration,Daniel Osei,Not Started,0,2026-04-02,2026-05-06,,2026-04-02,103.0,
+M&A,293,2,Refactor Systems Integration user role,TSA Exit,Integration,Daniel Osei,Not Started,0,2026-05-27,2026-06-25,,2026-05-27,13.0,
+M&A,294,2,Automate Systems Integration conversion rule,TSA Exit,Divestiture,Hiroshi Tanaka,Not Started,0,2026-05-30,2026-07-03,,2026-05-30,5.0,
+M&A,295,2,Document Day 1 Readiness reconciliation,TSA Exit,Playbook,Priya Nandakumar,Not Started,0,2026-04-10,2026-05-01,,2026-04-10,112.0,272
+M&A,296,2,Migrate TSA Exit batch job,TSA Exit,Divestiture,Marta Kowalski,Not Started,0,2026-05-24,2026-06-28,,2026-05-24,26.0,
+M&A,297,2,Deploy Day 1 Readiness master record,TSA Exit,Divestiture,Amara Okafor,Not Started,0,2026-04-02,2026-05-14,,2026-05-13,80.0,272
+M&A,298,2,Refactor Day 1 Readiness approval workflow,TSA Exit,Divestiture,Priya Nandakumar,Complete,100,2026-03-28,2026-05-14,2026-05-06,2026-05-06,52.0,
+M&A,299,2,Refactor Day 1 Readiness reconciliation,TSA Exit,Playbook,Priya Nandakumar,Not Started,0,2026-03-06,2026-03-22,,2026-03-16,12.0,
+M&A,300,2,Refactor Systems Integration training module,TSA Exit,Divestiture,Marta Kowalski,Not Started,0,2026-06-05,2026-06-30,,2026-06-30,129.0,
+M&A,301,2,Document Systems Integration data model,TSA Exit,Playbook,Daniel Osei,On Hold,15,2026-05-09,2026-10-02,,2026-08-04,11.0,272
